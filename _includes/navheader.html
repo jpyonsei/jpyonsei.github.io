@@ -21,7 +21,7 @@
         {%- else if link.section -%}
           <div>
             <a class="nav-link js-scroll-trigger" href="#{{ link.section }}" onmouseover="javascript:mover(this)">{{ link.title }}</a>
-            <ul style="list-style:none;display:none;padding: left 10px;" class="mouseclss">
+            <ul style="list-style:none;display:none;padding-left:10px;" class="mouseclss">
               <li style="list-style: none;display:list-item;">
                 {%- for sub in link.subtitles -%}
                   <a class="nav-link " style="padding-top:0px !important">{{ sub.title }}</a>
