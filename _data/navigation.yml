@@ -1,18 +1,65 @@
 nav:
-  - title: "Services"
+  - title: "학원소개"
     section: services
+    subtitles:
+      - title: 인사말
+        url: /jpyonse.html
+      - title: 프로그램 소개
+        url:
+      - title: 학원시설
+        url:
+      - title: 셔틀운행
+        url:
+      - title: 오시는길
+        url:
 
-  - title: "Portfolio"
+  - title: "수강안내"
     section: portfolio
+    subtitles:
+      - title: 정규반
+        url:
+      - title: 특별반
+        url:
+      - title: 예비반
+        url:
+      - title: 편입반
+        url:
+      - title: 시즌반
+        url:
     
-  - title: "About"
+  - title: "합격자안내"
     section: timeline
+    subtitles:
+      - title: 합격자명단
+        url:
+      - title: 합격자수기
+        url:
 
-  - title: "Team"
+  - title: "입시자료"
     section: team
+    subtitles:
+      - title: 정시
+        url:
+      - title: 수시
+        url:
+      - title: 공무원
+        url:
+      - title: 편입
+        url:
+      - title: 오시는길
+        url:
 
-  - title: "Contact"
+  - title: "커뮤니티"
     section: contact
+    subtitles:
+      - title: JP에듀학원
+        url:
+      - title: SNS
+        url:
+      - title: 협력업체
+        url:
+      - title: 공지사항
+        url:
 
-  - title: "Theme Source"
-    url: https://github.com/raviriley/agency-jekyll-theme/
+#  - title: "Theme Source"
+#    url: /jpyonse.html

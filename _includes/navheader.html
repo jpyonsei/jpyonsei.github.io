@@ -1,6 +1,6 @@
   <!-- Navigation -->
-  <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
-    <div class="container">
+  <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav" style="opacity: 0.8;">
+    <div class="container" style="align-items:flex-start !important;">
 	  <a class="navbar-brand js-scroll-trigger" href="#page-top">
           {%- if site.logo -%}
             <img height="{{ site.logo.height | default: 52 }}" src="{{ site.logo.path }}"/>
@@ -15,17 +15,38 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav text-uppercase ml-auto">
 		  {%- for link in site.data.navigation.nav -%}
-		  <li class="nav-item">
-		  {%- if link.url -%}
-		    <a class="nav-link js-scroll-trigger" href="{{ link.url }}">{{ link.title }}</a>
-		  {%- else if link.section -%}
-		    <a class="nav-link js-scroll-trigger" href="#{{ link.section }}">{{ link.title }}</a>
-		  {%- else -%}
-		    <a class="nav-link js-scroll-trigger" href="#">{{ link.title }}</a>
-		  {%- endif -%}
-          </li>
-		  {% endfor %}
-          </li>
+		    <li class="nav-item" style="width:120px">
+        {%- if link.url -%}
+          <a class="nav-link js-scroll-trigger" href="{{ link.url }}">{{ link.title }}</a>
+        {%- else if link.section -%}
+          <div>
+            <a class="nav-link js-scroll-trigger" href="#{{ link.section }}" onmouseover="javascript:mover(this)">{{ link.title }}</a>
+            <ul style="list-style:none;display:none;padding-left:5px;" class="mouseclss">
+              <li style="list-style: none;display:list-item;">
+                {%- for sub in link.subtitles -%}
+                  <a class="nav-link " style="padding-top:0px !important">{{ sub.title }}</a>
+                {% endfor %}
+              </li>
+            </ul>
+          </div>
+        {%- else -%}
+          <a class="nav-link js-scroll-trigger" href="#">{{ link.title }}</a>
+        {%- endif -%}
+            </li>
+      {% endfor %}
+            <script>
+              function mover(comp) {
+                $(".mouseclss").hide();
+                $(comp).next().show();
+              }
+
+              function mout() {
+                //$(comp).children('ul').hide();
+                $(".mouseclss").hide();
+              }
+
+              
+            </script>
         </ul>
       </div>
     </div>

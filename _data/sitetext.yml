@@ -1,11 +1,11 @@
 header:
-    title: Welcome to our Studio!
+    title: JP Yonsei
     text: 신익규 바보 인가 아닌가
     button: Tell Me More
     buttonlink: "#services"
 
 services:
-    title: "Services"
+    title: "서비스"
     text: "Lorem ipsum"
     section: services
     list:
@@ -27,7 +27,7 @@ portfolio:
     
 
 timeline:
-    title: "About" 
+    title: "학원소개" 
     text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
