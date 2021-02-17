@@ -3,7 +3,7 @@ nav:
     section: services
     subtitles:
       - title: 인사말
-        url: /jpyonse.html
+        url: /introduction/introduction.html
       - title: 프로그램 소개
         url:
       - title: 학원시설
@@ -45,8 +45,6 @@ nav:
       - title: 공무원
         url:
       - title: 편입
-        url:
-      - title: 오시는길
         url:
 
   - title: "커뮤니티"
