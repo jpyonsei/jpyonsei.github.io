@@ -1,10 +1,23 @@
   <!-- Footer -->
   <footer class="footer" id="footer" style="background-color:white;">
     <div class="container">
-      <div class="row align-items-center">
+		  <!-- Legal 
         <div class="col-md-4">
+          <ul class="list-inline quicklinks">
+            <li class="list-inline-item">
+              <a href="legal">개인정보책임자: 황정환(jpyonsei@outlook.com)</a>
+            </li>
+          </ul>
+        </div>-->
+      </div>
+      <div style="padding:0px 15px 20px 15px;">
+        <span class="copyright" style="line-height:5px;">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}  |   대표자 황정환  |   TEL 02-xxxx-xxxx   |   사업자등록번호 xxx-xxx-xxx   |  ADD 서울시 강서구  |   E-mail jpyonsei@outlook.com</span>
+      </div>
+
+      <div class="row align-items-center">
+        <!--<div class="col-md-4">
           <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
-        </div>
+        </div>-->
 		<!-- Social Media -->
         <div class="col-md-4">
           <ul class="list-inline social-buttons">
@@ -19,15 +32,6 @@
 			{% endfor %}
           </ul>
         </div>
-		<!-- Legal -->
-        <div class="col-md-4">
-          <ul class="list-inline quicklinks">
-            <li class="list-inline-item">
-              <a href="legal">{{ site.data.sitetext.footer.legal | default: "Privacy Policy" }}</a>
-            </li>
-          </ul>
-        </div>
-      </div>
     </div>
   </footer>
 {% if page.layout == "page" %}

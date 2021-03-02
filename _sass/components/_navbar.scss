@@ -38,6 +38,15 @@
     }
   }
 }
+
+.sub_menu_header {
+  background-image: url(/assets/img/sub_title_image.png);
+  background-position: center center;
+  background-size: cover;
+  text-align: center;
+  height:300px;
+}
+
 @media(min-width:992px) {
   #mainNav {
     padding-top: 25px;

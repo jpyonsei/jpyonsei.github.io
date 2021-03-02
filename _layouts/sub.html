@@ -1,16 +1,8 @@
 ---
 layout: default
 ---
-{% include jp_nav.html %}
-<style media="screen and (max-width: 768px)">
-    @media screen and (max-width: 768px) {
-        image {
-            width: 500px;
-        }
-    }
-</style>
-<img src="/assets/img/sub_title_image.png" style="width:100%;text-align:center;"/>
-<img src="/assets/img/shuttle/shuttle.png" style="width:100%;text-align:center;"/>
-<!--<img src="/assets/img/introduction/program_introduction01.png" style="width:100%;text-align:center;"/>
-<img src="/assets/img/introduction/program_introduction02.png" style="width:100%;text-align:center;"/>
-<img src="/assets/img/introduction/program_introduction03.png" style="width:100%;text-align:center;"/>-->
+{% include jp_nav_sub.html %}
+<div class="container" id="pagecontainer">
+    {{ content }}
+</div>
+    

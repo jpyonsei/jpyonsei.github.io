@@ -29,6 +29,9 @@ analytics:
 collections:
   portfolio:
 
+sass:
+    style: compressed
+
 
 markdown: kramdown
 

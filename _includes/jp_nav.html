@@ -1,30 +1,30 @@
 <!-- Navigation -->
-<nav class="navbar navbar-expand-lg navbar-dark fixed-top " id="mainNav" style="opacity: 0.8;">
+<nav class="navbar navbar-expand-lg navbar-dark fixed-top " id="mainNav" style="opacity: 0.8;" onmouseleave="mout(event)">
     <div class="container" style="align-items:flex-start !important;">
-    <a class="navbar-brand js-scroll-trigger" href="#page-top">
+    <a class="navbar-brand js-scroll-trigger" href="/">
           {%- if site.logo -%}
             <img height="{{ site.logo.height | default: 52 }}" src="{{ site.logo.path }}"/>
           {%- else -%}
             {{ site.title }}
           {%- endif -%}
       </a>
-      <button class="navbar-toggler navbar-toggler-right" style="margin-top:12px;" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      <button id="menuButton" class="navbar-toggler navbar-toggler-right" style="margin-top:12px;" type="button" aria-expanded="false" aria-label="Toggle navigation">
         Menu
         <i class="fas fa-bars"></i>
       </button>
-      <div class="collapse navbar-collapse" id="navbarResponsive">
+      <div class="collapse navbar-collapse" id="navbarResponsive" style="padding-top:8px">
         <ul class="navbar-nav text-uppercase ml-auto">
       {%- for link in site.data.navigation.nav -%}
         <li class="nav-item" style="width:125px">
         {%- if link.url -%} 
-          <a class="nav-link js-scroll-trigger" href="{{ link.url }}">{{ link.title }}</a>
+          <a class="nav-link js-scroll-trigger" onclick="javascript:mdown(event)" href="{{ link.url }}">{{ link.title }}</a>
         {%- else if link.section -%}
           <div>
-            <a class="nav-link js-scroll-trigger" href="#{{ link.section }}" onmouseover="javascript:mover(this)">{{ link.title }}</a>
+            <a class="nav-link js-scroll-trigger" href="#{{ link.section }}" onmousedown="javascript:mdown(event)" onmouseover="javascript:mover(this)">{{ link.title }}</a>
             <ul style="list-style:none;display:none;padding-left:10px;" class="mouseclss">
               <li style="list-style:none;display:list-item;">
                 {%- for sub in link.subtitles -%}
-                  <a class="nav-link" href="{{ sub.url }}" style="padding-top:0px !important">{{ sub.title }}</a>
+                  <a class="nav-link" href="{{ sub.url }}" style="padding-top:0px !important"">{{ sub.title }}</a>
                 {% endfor %}
               </li>
             </ul>
@@ -34,22 +34,8 @@
         {%- endif -%}
             </li>
       {% endfor %}
-            <script>
-              
-  
-  
-              function mover(comp) {
-                $(".mouseclss").hide();
-                $(comp).next().show();
-              }
-  
-              function mout() {
-                //$(comp).children('ul').hide();
-                $(".mouseclss").hide();
-              }              
-            </script>
         </ul>
       </div>
     </div>
   </nav>
-  <!-- End Navigation -->
+<!-- End Navigation -->
