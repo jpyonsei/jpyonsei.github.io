@@ -1,5 +1,27 @@
 ---
-layout: sub
+layout: sub_introduction
 ---
 
-<img src="/assets/img/shuttle/shuttle.png" style="width:100%;text-align:center;"/>
+<div class="introduction">
+    
+    <hr class="introduction">
+
+    <h1 class="title">교육이 치유가 되는 유일한 기업 JP</h1>
+    <h2 class="sub_title">JP는 가치 있는 교육을 통해 학생들의 비젼을 함께 이루어 갑니다.</h2>
+
+    <p class="introduction">불확실한 미래로 불안해하고 조급해하는 학생들에게 선생님은 생각보다 많은 영향을 미칩니다. <strong>단순히 대학만 잘 보내는 학원이 아닌 가치 있는 교육을 통해 학생들의 인격과 마음을 변화시키고 치유하는 책임감과 사명감으로 아이들을 바라봅니다.</strong></p>
+
+    <p class="introduction"><strong>학생들을 변화시키기 위해선 먼저 그들을 인정하고 사랑해야 합니다.</strong> 그들을 사랑하는 마음을 기반으로 끊임없이 인내하고 열정을 다해 교육할 때, 학생들의 진짜 변화가 시작됩니다.</p>
+
+    <p class="introduction"> 학생들의 목표가 오직 대학만 합격하기 위한 것이 아닌, <strong>진짜 가치 있는 삶의 비전을 심어주는 것이 최상의 명예이자 보람으로 생각합니다.</strong> 가치있는 비전이 심어질 때, 비로소 우리 학생들의 목표의식이 뚜렷해져 성공의 경험을 얻을 수 있음을  수많은 경험을 통해 증명해왔습니다.</p>
+
+    <p class="introduction"> <strong>가족을 대학 보내는 마음으로,</strong> 학원 선택은 곧 학생들의 성적이 되며 합격의 중요한 열쇠가 됨을 기억하며 끊임없이 노력하며 정진하겠습니다.</p>
+
+    <p class="introduction">스포츠업계가 점차 발전하면서 유아부터 노인체육, 스포츠마케팅, 재활 등 다양한 분야로 확대되고 있습니다. 이러한 상황에 맞게 자연적으로 <strong>실기능력은 물론이고 학습능력의 비중도 높아지게 되었습니다.</strong></p>
+
+    <p class="introduction">그렇기에 아무리 운동 능력이 뛰어나도 학습능력이 뒷받침되지 않으면 원하는 목표를 이루기 어려워지고 있는 것이 현실입니다. 따라서 원하는 목표를 이루기 위해선 방대한 데이터와 정보를 가지고 있어야 하며, 학생들은 이러한 요소들을 모두 고려하여 철저하게 대비해야 합니다.</p>
+
+    <p class="introduction">실기능력과 학습능력을 병행하는 과정이 만만치 않지만, 체육대학 진학의 꿈을 지닌 학생들의 고민을 들어주고 해결해줄 수 있도록 <strong>정확한 입시정보와 실기지도, 학습능력 향상까지 우리 학생들이 마음 놓고 꿈을 향해 달려나갈 수 있도록 이끌어 드리겠습니다.</strong></p>
+
+    <div class="intro_signature"></div>
+</div>

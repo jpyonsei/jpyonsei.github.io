@@ -1,0 +1,39 @@
+p.introduction {
+    color: black;
+    font-size: 18px;
+    margin:20px 0;
+}
+
+div.introduction {
+    margin-top:40px;
+    padding:10px;
+    color: #0c3151
+}
+
+div.introduction > hr.introduction {
+    height:5px;
+    border-width:0;
+    color:#0c3151;
+    background-color:#0c3151;
+    border-color:#0c3151;
+    width:30%;
+    margin:0 0 20px 0;
+}
+
+div.introduction > h2.sub_title {
+    font-size: 25px;
+    color: black;
+    margin-bottom: 30px;
+}
+
+div.introduction > h1.title {
+    font-size: 45px;
+}
+
+header.introduction_sub_main {
+    background-image: url(/assets/img/introduction/sub_main.jpeg);
+    background-position: center center;
+    background-size: cover;
+    text-align: center;
+    height:450px;
+}

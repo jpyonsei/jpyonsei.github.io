@@ -31,6 +31,7 @@ collections:
 
 sass:
     style: compressed
+    
 
 
 markdown: kramdown
