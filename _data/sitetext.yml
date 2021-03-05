@@ -1,8 +1,8 @@
 header:
     title: JP Yonsei
-    text: 신익규 바보 인가 아닌가
-    button: Tell Me More
-    buttonlink: "#services"
+    text: 교육이 치유가 되는 유일한 기업 JP
+    #button: Tell Me More
+    #buttonlink: "#services"
 
 services:
     title: "서비스"

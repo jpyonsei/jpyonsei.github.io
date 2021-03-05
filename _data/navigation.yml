@@ -31,7 +31,7 @@ nav:
     section: timeline
     subtitles:
       - title: 합격자명단
-        url:
+        url: /pass/pass.html
       - title: 합격자수기
         url:
 
