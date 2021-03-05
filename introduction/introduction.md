@@ -23,5 +23,7 @@ layout: sub_introduction
 
     <p class="introduction">실기능력과 학습능력을 병행하는 과정이 만만치 않지만, 체육대학 진학의 꿈을 지닌 학생들의 고민을 들어주고 해결해줄 수 있도록 <strong>정확한 입시정보와 실기지도, 학습능력 향상까지 우리 학생들이 마음 놓고 꿈을 향해 달려나갈 수 있도록 이끌어 드리겠습니다.</strong></p>
 
-    <div class="intro_signature"></div>
+    <div class="intro_signature">
+        <img src="/assets/img/introduction/introduction_logo.png">
+    </div>
 </div>
