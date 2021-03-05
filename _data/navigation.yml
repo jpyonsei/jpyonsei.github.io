@@ -11,7 +11,7 @@ nav:
       - title: 셔틀운행
         url:
       - title: 오시는길
-        url:
+        url: /introduction/map.html
 
   - title: "수강안내"
     section: portfolio

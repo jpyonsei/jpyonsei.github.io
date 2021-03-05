@@ -2,7 +2,7 @@
 layout: sub
 title: 합격자 명단
 ---
-<br/>
+
 <table class="table table-condensed">
     <thead class="thead-dark">
         <tr>
