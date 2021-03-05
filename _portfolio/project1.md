@@ -1,18 +1,16 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+caption:
+  title: 이성재
+  subtitle: 한국체육대학교 노인체육복지학과
+  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+
+title: 이성재
+subtitle: 한국체육대학교 '21
+logo: /assets/img/logo/yonsei_logo.png
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
-caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
 
-{:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+안녕하세요. 이번에 한국체육대학교 노인체육복지학과 21학번으로 입학하게 된 이성재입니다. 일단 제가 합격할 수 있게 도와주시고 응원해 주신 모든 분들과 살아계신 주님께 감사의 인사를 드립니다. 저는 어릴 때부터 운동을 너무 좋아했습니다. 하지만 공부는 너무나도 싫어했고 잘하지 못했습니다. 그래도 체대을 가고 싶은 마음은 항상 있었습니다. 하지만 체대를 가려면 공부+운동 모두 완성돼있어야만 했습니다. 그래서 저는 공부+운동 둘 다 잡을 수 있는 JP연세체대입시와 JP에듀를 선택하였습니다. 저는 고1때부터 JP학원을 다니기 시작했습니다. 하지만 공부는 역시나 처음부터 엉망이었고, 운동을 좋아하는 것과 잘하는 것은 별개였습니다. 솔직히 처음에 시작할 때 너무 못하다 보니깐 ‘이게 내 길인가..?’ 많이 고민하고 힘들었습니다. 하지만 체대입시 선생님과 에듀 선생님과 만한 상담을 하고 저의 마음과 생각이 많이 성장하였습니다. 선생님들께서는 절대로 저를 포기 안 하시고 끝까지 저를 도와주셨고 사랑으로 교육해 주셨습니다. 3년 동안 열심히 공부하고 운동하였고 샘들도 열심히 피드백해 주셨지만 수능장과 실기장의 긴장감을 이기지 못하고 ‘합격’이라는 산을 넘지 못했습니다. 하지만 저에게는 든든한 지원군, 즉 선생님들이 계시기 때문에 고민 없이 바로 재수를 결심했습니다. 저는 수능장에서 저의 부족함을 깨닫고 선생님들과 상담 후 고3시즌을 포기하고 수능이 끝난 2주 후부터 공부를 다시 시작했습니다. 확실히 재수할 때는 마음가짐이 다르고 학원에서 거의 살기 때문에 선생님들께 항상 질문할 수 있고 재수하다가 힘들 때 상담을 할 수 있는 것이 재수할 때 많은 도움이 되었습니다. JP에듀에서는 규칙적인 모의고사 실시와 피드백이 큰 도움이 되었고, 철저한 독서실 관리와 플래너 관리, 플래너 피드백이 저의 재수 생활이 흔들리지 않게 도와주었습니다. JP체대입시에서는 다양한 종목을 접해보고 따로 마련된 웨이트실에서 체계적인 웨이트를 통해 운동능력을 올려갔습니다. 가끔 강당에서 풋살을 하면서 재수생활의 스트레스를 날려버렸습니다. JP에듀와 JP체대입시는 같은 건물에 있습니다. 에듀는 4층 체대입시는 9층! 운동이 끝나면 학원에 있는 샤워실에서 샤워를 하고 4층에 내려가 개운하게 공부를 시작할 수 있었습니다. 지난 3년보다 더 열심히 1년을 재수생활을 지내고 수능 성적이 현역 때보다 훨씬 올라갔습니다. 작년보다 가벼운 마음으로 시즌을 임했습니다. 하지만 재수 시즌 때 2주 차에 부상을 당해 많이 힘들뻔 했지만 샘들께서 1:1로 재활운동도 알려주시고 절대로 도태되지 않게 많은 관심과 끊임없이 교육해 주셨습니다. 저 혼자라면 절대로 못할 일을 샘들과 만들어 나가는 것을 보고 정말 자신감이 많이 생겼습니다. 그렇게 얻은 자신감으로 한국체육대학교에 입학하게 되었습니다. 마지막으로 저희 학원을 자랑하자면 첫 번째는 JP에듀와 JP체대입시의 연계성입니다. 체대는 ‘운동과 공부’라는 두 마리의 토끼를 잡아야 합니다. 연계성이 좋기 때문에 두 마리의 토끼를 잡을 수 있었습니다. 두 번째는 선생님들의 끊임없는 사랑과 교육이라는 것입니다. 끊임없이 사랑과 교육을 부어주시기 때문에 저도 끝까지 달릴 수 있었습니다. 제가 이번에 입시 생활을 마치면서 느낀 것이 너무나도 많습니다. 단지 대학을 가려고 입시 생활을 한거 같지가 않습니다. 저 ‘이성재’라는 사람이 말도 안 되게 성장하였습니다. 넘어지고 다시 일어나고를 반복하고 그 반복하는 과정 속에 JP가 있었습니다. 너무나도 값진 경험이었습니다. JP학원에서 저라는 사람을 처음으로 알게 되었고, 저에게 없던 것들이 많이 생겼습니다. 입시와 합격 그 이상의 것을 얻고 싶은 학생들에게 JP에듀와 JP연세채대입시를 추천합니다!
 

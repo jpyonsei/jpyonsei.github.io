@@ -14,7 +14,7 @@
               <div class="modal-body">
                 <!-- Project Details Go Here -->
                 <h2 class="text-uppercase">{{ project.title }}</h2>
-                <p class="item-intro text-muted">{{ project.subtitle }}</p>
+                <p class="item-intro text-muted"><img src="{{ project.logo }}" width="24px" height="24px" style="margin-bottom:0;margin-right:3px"/>{{ project.subtitle }}</p>
                 <img class="img-fluid d-block mx-auto" src="{{ project.image }}" alt="{{ project.alt }}">
 				<p>{{ project.content }}</p>		
                 <button class="btn btn-primary" data-dismiss="modal" type="button">

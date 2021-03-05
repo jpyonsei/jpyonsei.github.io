@@ -159,3 +159,115 @@ pass:
     dept: 
     name: 신*한
     high: 명덕고
+  - univ: 세종대학교
+    dept: 체육학과
+    name: 권*영
+    high: 동양고
+  - univ: 숭실대학교
+    dept: 스포츠학부
+    name: 이*령
+    high: 광여여고
+  - univ: 세종대학교
+    dept: 체육학과
+    name: 최*원
+    high: 동양고
+  - univ: 단국대학교
+    dept: 생활체육학과
+    name: 은*현
+    high: 편입학
+  - univ: 국립강원대학교
+    dept: 스포츠과학과
+    name: 이*천
+    high: 한서고
+  - univ: 숭실대학교
+    dept: 스포츠학부
+    name: 김*원
+    high: 동양고
+  - univ: 국립인천대학교
+    dept: 운동건강학부
+    name: 사*민
+    high: 백암고
+  - univ: 용인대학교
+    dept: 특수체육교육과
+    name: 정*총
+    high: 상주고
+  - univ: 단국대학교
+    dept: 생활체육학과
+    name: 사*민
+    high: 백암고
+  - univ: 고려대학교
+    dept: 국제스포츠학부
+    name: 신*섭
+    high: 화곡고
+  - univ: 서울시립대학교
+    dept: 스포츠과학과
+    name: 정*원
+    high: 광여여고
+  - univ: 서울시립대학교
+    dept: 스포츠과학과
+    name: 김*경
+    high: 광영여고
+  - univ: 중앙대학교
+    dept: 스포츠과학부
+    name: 정*호
+    high: 화곡고
+  - univ: 국민대학교
+    dept: 스포츠교육학과
+    name: 박*랑
+    high: 덕원여고
+  - univ: 세종대학교
+    dept: 체육학과
+    name: 신*태
+    high: 광영고
+  - univ: 숭실대학교
+    dept: 스포츠학부
+    name: 김*규
+    high: 명덕고
+  - univ: 서울여자대학교
+    dept: 체육학과
+    name: 최*지
+    high: 세현고
+  - univ: 강남대학교
+    dept: 스포츠복지전공
+    name: 최*성
+    high: 편입학
+  - univ: 단국대학교
+    dept: 운동처방재활학과
+    name: 임*학
+    high: 세현고
+  - univ: 숭실대학교
+    dept: 스포츠학부
+    name: 박*영
+    high: 덕원여고
+  - univ: 단국대학교
+    dept: 생활체육학과
+    name: 신*태
+    high: 광영고
+  - univ: 카톨릭관동대학교
+    dept: 스포츠건강관리학과
+    name: 이*찬
+    high: 광영고
+  - univ: 단국대학교
+    dept: 생활체육학과
+    name: 최*지
+    high: 백암고
+  - univ: 카톨릭관동대학교
+    dept: 스포츠건강관리학과
+    name: 김*영
+    high: 광영고
+  - univ: 강남대학교
+    dept: 스포츠복지전공
+    name: 곽*호
+    high: 광영고
+  - univ: 단국대학교
+    dept: 생활체육학과
+    name: 최*원
+    high: 동양고
+  - univ: 단국대학교
+    dept: 스포츠경영학과
+    name: 김*태
+    high: 백암고
+  - univ: 카톨릭관동대학교
+    dept: 스포츠건강관리학과
+    name: 차*제
+    high: 편입학
