@@ -56,4 +56,18 @@ header.introduction_sub_main {
     header.introduction_sub_main {
         height:450px;
     }
+
+    p.introduction {
+        font-size: 17px;
+        margin:10px 0;
+    }
+
+    div.introduction > h2.sub_title {
+        font-size: 20px;
+        margin-bottom: 25px;
+    }
+    
+    div.introduction > h1.title {
+        font-size: 28px;
+    }
 }
