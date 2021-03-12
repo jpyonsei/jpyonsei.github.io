@@ -28,6 +28,12 @@ analytics:
 
 collections:
   portfolio:
+    output: true
+  notice:
+    output: true
+
+paginate: 5
+paginate_path: "/_notice/page:num/"
 
 sass:
     style: compressed
@@ -35,6 +41,11 @@ sass:
 
 
 markdown: kramdown
+
+# Plugins
+#gems: [jekyll-paginate, jekyll-sitemap]
+#plugins: [jekyll-paginate]
+
 
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
