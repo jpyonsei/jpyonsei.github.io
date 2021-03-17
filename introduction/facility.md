@@ -12,3 +12,8 @@ title: 학원 시설
 <img src="/assets/img/introduction/facility08.png" width="100%" style="width:100%;text-align:center;"/>
 <img src="/assets/img/introduction/facility09.png" width="100%" style="width:100%;text-align:center;"/>
 <img src="/assets/img/introduction/facility10.png" width="100%" style="width:100%;text-align:center;"/>
+<img src="/assets/img/introduction/facility11.png" width="100%" style="width:100%;text-align:center;"/>
+<img src="/assets/img/introduction/facility12.png" width="100%" style="width:100%;text-align:center;"/>
+<img src="/assets/img/introduction/facility13.png" width="100%" style="width:100%;text-align:center;"/>
+<img src="/assets/img/introduction/facility14.png" width="100%" style="width:100%;text-align:center;"/>
+<img src="/assets/img/introduction/facility15.png" width="100%" style="width:100%;text-align:center;"/>

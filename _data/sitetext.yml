@@ -6,7 +6,7 @@ header:
 
 services:
     title: "합격자 현황"
-    text: "합격자 현황"
+    text: "2020 ~ 2021 합격자"
     section: services
     list:
       - title: "E-Commerce"
@@ -21,7 +21,7 @@ services:
 
 portfolio:
     title: "합격 수기"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "합격 수기"
     section: portfolio
     closebutton: "Close Project"
     

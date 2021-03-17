@@ -1,6 +1,6 @@
 ---
 layout: sub
-title: 합격자 명단
+title: 🎊 합격자 명단 🎉
 ---
 
 <table class="table table-condensed">

@@ -9,29 +9,21 @@ nav:
       - title: 학원시설
         url: /introduction/facility.html
       - title: 셔틀운행
-        url:
+        url: /introduction/shuttle.html
       - title: 오시는길
         url: /introduction/map.html
 
   - title: "수강안내"
-    section: portfolio
+    #section: portfolio
     subtitles:
-      - title: 정규반
-        url:
-      - title: 특별반
-        url:
-      - title: 예비반
-        url:
-      - title: 편입반
-        url:
-      - title: 시즌반
-        url:
+      - title: 수강 안내
+        url: /course/course.html
     
   - title: "합격자안내"
     section: timeline
     subtitles:
       - title: 합격자명단
-        url: /pass/pass.html
+        url: /accepted/pass.html
       - title: 합격자수기
         url:
 

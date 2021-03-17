@@ -9,6 +9,8 @@ title: 오시는 길
 <div style="width:415px;margin:10px auto">
     <div id="daumRoughmapContainer1614966678695" class="root_daum_roughmap root_daum_roughmap_landing"></div>
 </div>
+<img src="/assets/img/introduction/map01.png" width="100%" style="width:100%;text-align:center;"/>
+<img src="/assets/img/introduction/map02.png" width="100%" style="width:100%;text-align:center;"/>
 
 <!--
 	2. 설치 스크립트
