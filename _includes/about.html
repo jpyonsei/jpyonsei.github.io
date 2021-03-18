@@ -1,17 +1,20 @@
 <!-- About -->
-  <section class="page-section" id="{{ site.data.sitetext.about.section | default: "about" }}">
+  <section class="page-section bg-light">
+    <div class="row"></div>
     <div class="container">
-      <div class="row">
-        <div class="col-lg-12 text-center">
-          <h2 class="section-heading text-uppercase">{{ site.data.sitetext.about.title | default: "About Us" }}</h2>
-          <h3 class="section-subheading text-muted">{{ site.data.sitetext.about.text | default: "" }}</h3>
+      <div class="row no-gutters about-row">
+        <div class="col-md-5 about-bg-img col-xs-12">
+          
+        </div>
+        <div class="col-md-7 about-bg col-xs-12 about-wrap">
+          <p class="about-title">JPEOPLE OF PASSION</p>
+          <p class="about-subtitle">PHYSICAL EDUCATION</p>
+          <p class="about-subtitle-desc">"교육이 치유가 되는 유일한 기업"</p>
+          <p class="about-greeting">JP연세체대입시 홈페이지에 오신것을 환영합니다.</p>
+          <button class="btn btn-xl btn-primary about-btn" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"
+          onclick="location.href='/introduction/greeting.html'">ABOUT US</button>
         </div>
       </div>
-	  <div class="row">
-		<div class="col-lg-8 mx-auto text-center">
-		  <div class="large text-muted">{{ site.data.sitetext.about.text | markdownify }}</div>
-		</div>
-	  </div>
     </div>
   </section>
 <!-- End About -->

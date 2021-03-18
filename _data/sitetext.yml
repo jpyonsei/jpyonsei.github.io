@@ -1,6 +1,7 @@
 header:
-    title: JP Yonsei
-    text: 교육이 치유가 되는 유일한 기업 JP
+    #title: JP Yonsei
+    #text: 2년 연속 연세대학교<sub>(체육교육학과)</sub>, <br/>고려대학교<sub>(체육교육과)</sub> 합격 🎉
+    text: <br/><br/>
     #button: Tell Me More
     #buttonlink: "#services"
 

@@ -2,7 +2,7 @@
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("#{$header-image}");
+  background-image: url("#{$header-image-m}");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -26,8 +26,18 @@ header.masthead {
     }
   }
 }
+
+@media(min-width:1280px) {
+  header.masthead {
+    background-position: cover;
+  }
+}
+
 @media(min-width:768px) {
   header.masthead {
+    background-image: url("#{$header-image}");
+    background-position-x:0;
+    background-position-y:0;
     .intro-text {
       padding-top: 300px;
       padding-bottom: 200px;

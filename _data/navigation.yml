@@ -3,7 +3,7 @@ nav:
     section: services
     subtitles:
       - title: 인사말
-        url: /introduction/introduction.html
+        url: /introduction/greeting.html
       - title: 프로그램 소개
         url: /introduction/program.html
       - title: 학원시설
