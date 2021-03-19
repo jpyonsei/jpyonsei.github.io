@@ -30,6 +30,35 @@
 
 }
 
+.category-bg {
+    background: url(/assets/img/intro/category_bg.png) 0 0 no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+
+.category-bg > div > a {
+    width: 90px;
+    height: 90px;
+    background-size: contain;
+    display: block;
+    margin:auto;
+}
+
+a.category-program {
+    background: url(/assets/img/intro/category_program_icon.png) 0 0 no-repeat;
+}
+
+a.category-course {
+    background: url(/assets/img/intro/category_course_icon.png) 0 0 no-repeat;
+}
+
+a.category-admission {
+    background: url(/assets/img/intro/category_admission_icon.png) 0 0 no-repeat;
+}
+
+a.category-shuttle {
+    background: url(/assets/img/intro/category_shuttle_icon.png) 0 0 no-repeat;
+}
 
 .about-bg-img {
     background: url(/assets/img/about/about_bg.png) 0 0 no-repeat;
@@ -40,6 +69,8 @@
 p.about-title {
     margin: 10px 10px 0px 20px;
     font-size: 2em;
+    text-overflow: ellipsis;
+    width:100%;
 }
 
 p.about-subtitle {
@@ -48,15 +79,17 @@ p.about-subtitle {
 }
 
 p.about-subtitle-desc {
-    position: absolute;
-    bottom: 80px;
-    left: 20px;
+    margin: 60px 0 0 20px;
+    //position: absolute;
+    //bottom: 100px;
+    //left: 20px;
 }
 
 p.about-greeting {
-    position: absolute;
-    bottom: 55px;
-    left: 20px;
+    margin: 0 0 0 20px;
+    //position: absolute;
+    //bottom: 75px;
+    //left: 20px;
 }
 
 @media(min-width:768px) {
