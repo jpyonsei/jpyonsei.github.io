@@ -1,0 +1,55 @@
+{% if include.univ == "연세대학교" %}
+    {% assign logo = "yonsei_logo.png" %}
+{% elsif include.univ == "고려대학교" %}
+    {% assign logo = "korea_logo.png" %}
+{% elsif include.univ == "카톨릭관동대학교" %}
+    {% assign logo = "cku.png" %}
+{% elsif include.univ == "가천대학교" %}
+    {% assign logo = "gachon.png" %}
+{% elsif include.univ == "강남대학교" %}
+    {% assign logo = "kangnam.png" %}
+{% elsif include.univ == "국립강원대학교" %}
+    {% assign logo = "kangwon.png" %}
+{% elsif include.univ == "한서대학교" %}
+    {% assign logo = "hanseo.png" %}
+{% elsif include.univ == "육군사관학교" %}
+    {% assign logo = "military.png" %}
+{% elsif include.univ == "상명대학교" %}
+    {% assign logo = "smu.png" %}
+{% elsif include.univ == "세종대학교" %}
+    {% assign logo = "sejong.png" %}
+{% elsif include.univ == "서울여자대학교" %}
+    {% assign logo = "seoul_women.png" %}
+{% elsif include.univ == "용인대학교" %}
+    {% assign logo = "yongin.png" %}
+{% elsif include.univ == "국립인천대학교" %}
+    {% assign logo = "incheon.png" %}
+{% elsif include.univ == "한양대학교" %}
+    {% assign logo = "hanyang.png" %}
+{% elsif include.univ == "서울시립대학교" %}
+    {% assign logo = "seoul.png" %}
+{% elsif include.univ == "숙명여자대학교" %}
+    {% assign logo = "sookmyung.png" %}
+{% elsif include.univ == "숭실대학교" %}
+    {% assign logo = "soongsil.png" %}
+{% elsif include.univ == "한국체육대학교" %}
+    {% assign logo = "sport.png" %}
+{% elsif include.univ == "인하대학교" %}
+    {% assign logo = "inha.png" %}
+{% elsif include.univ == "경희대학교" %}
+    {% assign logo = "kh.png" %}
+{% elsif include.univ == "국민대학교" %}
+    {% assign logo = "kookmin.png" %}
+{% elsif include.univ == "단국대학교" %}
+    {% assign logo = "dankook.png" %}
+{% elsif include.univ == "동국대학교" %}
+    {% assign logo = "dongkook.png" %}
+{% elsif include.univ == "나사렛대학교" %}
+    {% assign logo = "nazarene.png" %}
+{% elsif include.univ == "중앙대학교" %}
+    {% assign logo = "joongang_logo.png" %}
+{% elsif include.univ == "건국대학교" %}
+    {% assign logo = "kunkuk_logo.png" %}
+{% else %}
+    {% assign logo = "korea_logo.png" %}
+{% endif %}{{ logo }}
