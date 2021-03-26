@@ -1,6 +1,6 @@
 ---
 layout: sub
-title: 수강 안내
+title: 협력업체
 ---
 <img src="/assets/img/community/partners01.png" width="100%" style="width:100%;text-align:center;"/>
 <img src="/assets/img/community/partners02.png" width="100%" style="width:100%;text-align:center;"/>
