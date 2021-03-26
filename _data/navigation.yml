@@ -31,7 +31,7 @@ nav:
     section: team
     subtitles:
       - title: 정시
-        url:
+        url: /admission/regular.html
       - title: 수시
         url:
       - title: 공무원
@@ -42,12 +42,12 @@ nav:
   - title: "커뮤니티"
     section: contact
     subtitles:
-      - title: JP에듀학원
-        url:
-      - title: SNS
-        url:
+#      - title: JP에듀학원
+#        url:
+#      - title: SNS
+#        url:
       - title: 협력업체
-        url:
+        url: /community/partners.html
       - title: 공지사항
         url: /community/notice.html
 

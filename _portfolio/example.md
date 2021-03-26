@@ -10,7 +10,7 @@ caption: #what displays in the portfolio grid:
 name: 이*재
 title: 2021 한체대 합격
 logo: /assets/img/logo/yonsei_logo.png
-thumbnail: /assets/img/success_story/이성재.png
+thumbnail: /assets/img/success_story/이_재.png
 alt: image alt text
 
 ---

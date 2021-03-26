@@ -7,7 +7,7 @@ header:
 
 services:
     title: "합격자 현황"
-    text: "2020 ~ 2021 합격자"
+    text: ""
     section: services
     list:
       - title: "E-Commerce"
