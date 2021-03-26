@@ -1,10 +1,8 @@
 ---
-caption: #what displays in the portfolio grid:
-  name: 김*언
-  title: 2021 한체대 합격
-  dept: 노인체육복지학과
-  thumbnail: /assets/img/success_story/김_언s.png
-  highschool: 백암고
+caption:
+  title: 이성재
+  subtitle: 한국체육대학교 노인체육복지학과
+  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
 
 title: 이성재
 subtitle: 한국체육대학교 '21

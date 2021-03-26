@@ -22,9 +22,9 @@ services:
 
 portfolio:
     title: "합격 수기"
-    text: "합격 수기"
+    text: " "
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "닫기"
     
 
 timeline:

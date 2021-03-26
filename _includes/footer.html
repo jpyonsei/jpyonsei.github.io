@@ -1,37 +1,12 @@
   <!-- Footer -->
-  <footer class="footer" id="footer" style="background-color:white;">
-    <div class="container">
-		  <!-- Legal 
-        <div class="col-md-4">
-          <ul class="list-inline quicklinks">
-            <li class="list-inline-item">
-              <a href="legal">개인정보책임자: 황정환(jpyonsei@outlook.com)</a>
-            </li>
-          </ul>
-        </div>-->
-      </div>
-      <div style="padding:0px 15px 20px 15px;">
-        <span class="copyright" style="line-height:5px;">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}  |   대표자 황정환  |   TEL 02-xxxx-xxxx   |   사업자등록번호 xxx-xxx-xxx   |  ADD 서울시 강서구  |   E-mail jpyonsei@outlook.com</span>
-      </div>
-
-      <div class="row align-items-center">
-        <!--<div class="col-md-4">
-          <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
-        </div>-->
-		<!-- Social Media -->
-        <div class="col-md-4">
-          <ul class="list-inline social-buttons">
-		  {% for link in site.data.sitetext.footer.social  %}
-            <li class="list-inline-item">
-			  {% if link.url %}
-              <a href="{{ link.url }}">
-                {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
-              </a>
-			  {% endif %}
-            </li>
-			{% endfor %}
-          </ul>
+  <footer class="footer" id="footer" style="background-color:#333;">
+    <div class="container" style="width:100%;;color:white">
+      <div class="row no-gutters">
+        <div class="col-3" style="padding-top:20px">
+          <img src="/assets/img/footer_logo.png" width="100%"  class="mx-auto d-block"/>
         </div>
+        <div class="col-9" style="padding:20px;">서울특별시 강서구 화곡로 161 대성빌딩 4F, 9F | 대표: 황정환 | email: jpyonsei@outlook.com | Tel:<tel>02) 2696-2831</tel> | 사업자등록번호: 117-14-29753</div>
+      </div>
     </div>
   </footer>
 {% if page.layout == "page" %}

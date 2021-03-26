@@ -1,14 +1,16 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: 김동현
-  subtitle: 한국체육대학교
-  thumbnail: https://place-hold.it/400x300
+  name: 이*재
+  title: 2021 한체대 합격
+  dept: 노인체육복지학과
+  thumbnail: /assets/img/success_story/이_재s.png
+  highschool: 백암고
   
 #what displays when the item is clicked:
-title: 김동현
-subtitle: 한국체육대학교 '21
+name: 이*재
+title: 2021 한체대 합격
 logo: /assets/img/logo/yonsei_logo.png
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+thumbnail: /assets/img/success_story/이성재.png
 alt: image alt text
 
 ---

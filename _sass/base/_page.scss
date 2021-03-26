@@ -1,8 +1,14 @@
 // Global styling for this template
+html {
+  overflow-x: hidden;
+}
+
 body {
   overflow-x: hidden;
+  position: relative;
   @include nanum-gothic-font;
 }
+
 
 p {
   line-height: 1.75;

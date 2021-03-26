@@ -1,8 +1,11 @@
 ---
 caption:
-  title: 신태섭
-  subtitle: 연세대, 단국대, 인하대
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  name:  이*재
+  title: 2021 한체대 합격
+  dept: 노인체육복지학과
+  picture: /assets/img/success_story/lsjm.png
+  highschool: 백암고
+  
 
 title: 신태섭
 subtitle: 연세대, 단국대, 인하대
