@@ -4,6 +4,7 @@ caption: #what displays in the portfolio grid:
   title: 2021 한체대 합격
   dept: 노인체육복지학과
   thumbnail: /assets/img/success_story/김_언s.png
+  comment: /assets/img/success_story/comment02.png
   highschool: 백암고
 
 title: 이성재

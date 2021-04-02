@@ -4,16 +4,16 @@ caption: #what displays in the portfolio grid:
   title: 2021 한체대 합격
   dept: 노인체육복지학과
   thumbnail: /assets/img/success_story/이_재s.png
+  comment: /assets/img/success_story/comment01.png
   highschool: 백암고
   
 #what displays when the item is clicked:
 name: 이*재
 title: 2021 한체대 합격
-logo: /assets/img/logo/yonsei_logo.png
-thumbnail: /assets/img/success_story/이_재.png
-alt: image alt text
+univ: 한국체육대학교
+picture: /assets/img/success_story/이_재.png
 
----
+--- 
 
 안녕하세요. JP연세체대입시에서 고2 때부터 재수까지 입시를 준비하며 이번에 한국체육대학교 21학번으로 입학하게 된 김동현입니다. 
 작년에 선배님들의 합격수기를 보며 내년에는 꼭 나도 쓰고 싶다는 생각이 들었습니다. 쓸 수 있게 됨에 먼저 이 모든 영광을 주님께 바칩니다. 

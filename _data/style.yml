@@ -5,8 +5,8 @@
 
 #Image Customization
 #header-image: "../img/jpyonsei_main.png"
-header-image: "../img/intro/intro_d_01.png"
-header-image-m: "../img/intro/intro_m_01.png"
+header-image: "../img/jpyonsei_main.png"
+header-image-m: "../img/jpyonsei_main_m.png"
 contact-image: "../img/contact.png"
 
 #Font Awesome icon for portfolio grid when an item is hovered over
