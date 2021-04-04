@@ -1,0 +1,105 @@
+// Styling for the team section
+.team-member {
+  margin-bottom: 50px;
+  text-align: center;
+  img {
+    width: 225px;
+    height: 225px;
+    border: 7px solid fade-out($black, 0.9);
+  }
+  h4 {
+    margin-top: 25px;
+    margin-bottom: 0;
+    text-transform: none;
+  }
+  p {
+    margin-top: 0;
+  }
+}
+
+.success-story-main {
+  max-width: 1024px;
+  margin:0 auto 30px auto;
+}
+
+.success-story-main div.panel {
+  width:100%;
+  padding: 0 10px;
+  margin-bottom: 15px;
+}
+
+.success-story-main div.pic-panel {
+  background-color: #f9f9f7;
+  height: 300px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.success-story-main div.desc-panel {
+  background-color: #f2f0ee;
+  height: 100px;
+  padding:10px;
+}
+
+.success-story-main div.panel > a {
+  text-decoration: none;
+  color: unset;
+}
+
+.success-story-main div.panel > div.banner-panel {
+  height:400px;
+  position:relative;
+}
+
+.success-story-main div.panel > div.banner-panel > div.banner-content {
+  position: absolute;
+  width:100%;
+  height:100%;
+  display:inline-block;
+  background-position: right 10px bottom 10px;
+  background-size:150px;
+  background-repeat: no-repeat;
+  opacity: 0.2;
+}
+
+.success-story-main div.panel > div.banner-panel > img {
+  width:100%;
+  position: absolute;
+  padding: 70px 10px 10px 10px;
+}
+
+.success-story-main div.desc-panel p {
+  margin-bottom: 0;
+}
+
+.success-story-main div.desc-panel p.univ {
+  height:32px;  
+  text-align: center;  
+}
+
+.success-story-main div.desc-panel p.univ > span {
+  background-repeat: no-repeat;
+  font-size: 18px;
+  font-weight: bold;
+  background-size: 32px;
+}
+
+.success-story-main div.desc-panel p.univ > span > img {
+  width: 28px;
+  height: 28px;
+  margin-right: 8px;
+  margin-top: -3px;
+}
+
+
+.success-story-main div.desc-panel p.dept {
+  font-size: 14px;
+  text-align:center;
+}
+
+.success-story-main div.desc-panel p.name {
+  text-align:center;
+  font-size: 14px;
+  font-weight: bold;
+}

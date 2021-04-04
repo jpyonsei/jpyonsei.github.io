@@ -24,7 +24,7 @@ nav:
     subtitles:
       - title: 합격자명단
         url: /accepted/pass.html
-      - title: 합격자수기
+      - title: 합격스토리
         url: /accepted/success_story.html
 
   - title: "입시자료"

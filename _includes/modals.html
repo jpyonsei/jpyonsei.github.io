@@ -2,7 +2,7 @@
 {% for success in site.portfolio %}
   <div class="portfolio-modal modal fade" id="p{{ forloop.index }}" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog">
-      <div class="modal-content">
+      <div class="modal-content" style="padding-bottom: 30px">
         <div class="close-modal" data-dismiss="modal">
           <div class="lr">
             <div class="rl"></div>
@@ -18,7 +18,7 @@
                 <img class="img-fluid d-block mx-auto" src="{{ success.picture }}" alt="{{ success.name }}">
 				        <div style="text-align: left;">{{ success.content }}</div>
                 <button class="btn btn-primary" data-dismiss="modal" type="button" style="text-align:right;">
-                  <i class="fas fa-times" ></i>닫기
+                  <i class="fas fa-times" ></i>  닫기
                 </button>
               </div>
             </div>
