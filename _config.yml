@@ -24,7 +24,7 @@ logo:     #optional, defaults to site title
   path: /assets/img/jp_logo.png
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: G-BG2K9CBSFJ
 
 collections:
   portfolio:
