@@ -12,7 +12,17 @@ title: 정시
     </nav>
     <div class="tab-content" id="nav-tabContent">
         <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
-            
+            <table class="table table-condensed">
+                <tbody>
+                    {%- for p in site.data.admission.ka-group -%}
+                        {{ site.data.admission.ka-group.size }}
+                        {{ forloop.index }}
+                        <tr>
+                            <td><img src="/assets/img/logo/{% include logo_func.html univ=p.univ %}" width="24px" height="24px" style="margin-right:4px"/>{{ p.title }}</td>
+                        </tr>
+                    {%- endfor -%}
+                </tbody>
+            </table>
         </div>
         <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">...</div>
         <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">...</div>
