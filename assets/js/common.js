@@ -3,6 +3,10 @@ function click(e) {
     e.stopPropagation();    
 }
 
+function goTo(url) {
+    window.location = url;
+}
+
 
 function mdown(event) {
     event.preventDefault();
