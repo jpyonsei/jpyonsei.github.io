@@ -12,14 +12,28 @@ title: 정시
     </nav>
     <div class="tab-content" id="nav-tabContent">
         <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
-            
+            <table class="table table-condensed">
+                <tbody>
+                    {% for p in site.data.admission2022.ka-group -%}
+                        {% assign remainder = forloop.index | modulo: 2 %}
+                        {% if remainder == 1 %}
+                            <tr>
+                        {% endif %}
+                            <td><a data-toggle="modal" href="#admission{{forloop.index}}" onclick="loadImage({{forloop.index}}, '{{p.image-url}}')" style="text-decoration:none;color:black"><img src="/assets/img/logo/{% include logo_func.html univ=p.univ %}" width="24px" height="24px" style="margin-right:8px"/>{{ p.title }}</a></td>
+                        {% if remainder == 0 or forloop.last %}
+                            </tr>
+                        {% endif %}
+                    {%- endfor -%}
+                </tbody>
+            </table>
         </div>
         <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">...</div>
         <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">...</div>
     </div>
 </div>
+{% include admission_modals.html %}
 <script type="text/javascript">
-   
-
-    
+const loadImage = function(index, img_url) {
+    $("#admissionImg" + index).attr("src", img_url);
+}
 </script>

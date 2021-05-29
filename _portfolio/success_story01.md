@@ -1,13 +1,13 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: 건국대, 숙명여대 합격
+  title: 2021 숙명여대 합격
   dept: 체육교육과
   thumbnail: /assets/img/success_story/배_서s.png
   comment: /assets/img/success_story/comment_배_서.png
   
 #what displays when the item is clicked:
 name: 배*서
-title: 건국대(체육교육과), 숙명여대(체육교육과) 합격
+title: 건국대, 숙명여대 체육교육과 합격
 dept: 체육교육과
 univ: 건국대학교
 picture: /assets/img/success_story/배_서.png
