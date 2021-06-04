@@ -5,7 +5,7 @@ name: 권*영
 title: 세종대(체육학과)
 univ: 세종대학교
 dept: 체육학과
-picture: /assets/img/success_story/이_호.png
+picture: /assets/img/success_story/IMG_3437.JPG
 highschool: 동양고
 --- 
 안녕하세요. 저는 올해 동양고등학교를 졸업해 세종대학교 체육학과 20학번으로 입학하게 되는 권태영입니다.
