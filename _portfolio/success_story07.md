@@ -5,7 +5,7 @@ name: 김*원
 title: 숭실대(스포츠학부)
 univ: 숭실대학교
 dept: 스포츠학부
-picture: /assets/img/success_story/김_원.png
+picture: /assets/img/success_story/김__원.png
 highschool: 동양고
 --- 
 안녕하세요 저는 숭실대학교 20학번 김*원입니다.
