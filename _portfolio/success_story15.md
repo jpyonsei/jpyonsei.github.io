@@ -4,7 +4,7 @@
 name: 김*원
 title: 숭실대(스포츠학부)
 univ: 숭실대학교
-dept: 
+dept: 스포츠학부
 picture: /assets/img/success_story/김재원.png
 highschool: 동양고
 --- 
