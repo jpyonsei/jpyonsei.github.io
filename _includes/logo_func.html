@@ -8,7 +8,7 @@
     {% assign logo = "gachon.png" %}
 {% elsif include.univ == "강남대학교" %}
     {% assign logo = "kangnam.png" %}
-{% elsif include.univ == "국립강원대학교" %}
+{% elsif include.univ == "국립강원대학교" or include.univ == "강원대학교" %}
     {% assign logo = "kangwon.png" %}
 {% elsif include.univ == "한서대학교" %}
     {% assign logo = "hanseo.png" %}
@@ -22,7 +22,7 @@
     {% assign logo = "seoul_women.png" %}
 {% elsif include.univ == "용인대학교" %}
     {% assign logo = "yongin.png" %}
-{% elsif include.univ == "국립인천대학교" %}
+{% elsif include.univ == "국립인천대학교" or include.univ == "인천대학교"  %}
     {% assign logo = "incheon.png" %}
 {% elsif include.univ == "한양대학교" %}
     {% assign logo = "hanyang.png" %}
@@ -58,6 +58,38 @@
     {% assign logo = "syu.png" %}
 {% elsif include.univ == "성신여자대학교" %}
     {% assign logo = "sungshin.png" %}
+{% elsif include.univ == "서원대학교" %}
+    {% assign logo = "seowon.png" %}
+{% elsif include.univ == "백석대학교" %}
+    {% assign logo = "bs.png" %}
+{% elsif include.univ == "한국교통대학교" %}
+    {% assign logo = "ut.png" %}
+{% elsif include.univ == "한국해양대학교" %}
+    {% assign logo = "kmou.png" %}
+{% elsif include.univ == "한국교원대학교" %}
+    {% assign logo = "knue.png" %}
+{% elsif include.univ == "한신대학교" %}
+    {% assign logo = "hs.png" %}
+{% elsif include.univ == "충남대학교" %}
+    {% assign logo = "cnu.png" %}
+{% elsif include.univ == "호서대학교" %}
+    {% assign logo = "hoseo.png" %}
+{% elsif include.univ == "명지대학교" %}
+    {% assign logo = "mju.png" %}
+{% elsif include.univ == "동덕여자대학교" %}
+    {% assign logo = "dongduk.png" %}
+{% elsif include.univ == "서울과학기술대학교" %}
+    {% assign logo = "seoultech.png" %}
+{% elsif include.univ == "이화여자대학교" %}
+    {% assign logo = "ewha.png" %}
+{% elsif include.univ == "경기대학교" %}
+    {% assign logo = "kyonggi.png" %}
+{% elsif include.univ == "성결대학교" %}
+    {% assign logo = "sungkyul.png" %}
+{% elsif include.univ == "수원대학교" %}
+    {% assign logo = "suwon.png" %}
+{% elsif include.univ == "세명대학교" %}
+    {% assign logo = "semyung.png" %}
 {% else %}
     {% assign logo = "blank.png" %}
 {% endif %}{{ logo }}
