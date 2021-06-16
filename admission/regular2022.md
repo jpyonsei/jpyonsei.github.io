@@ -15,14 +15,9 @@ title: 정시
             <table class="table table-condensed">
                 <tbody>
                     {% for p in site.data.admission2022.ka-group -%}
-                        {% assign remainder = forloop.index | modulo: 2 %}
-                        {% if remainder == 1 %}
-                            <tr>
-                        {% endif %}
+                        <tr>
                             <td><a data-toggle="modal" href="#admission{{forloop.index}}" onclick="loadImage({{forloop.index}}, '{{p.image-url}}')" style="text-decoration:none;color:black"><img src="/assets/img/logo/{% include logo_func.html univ=p.univ %}" width="24px" height="24px" style="margin-right:8px"/>{{ p.title }}</a></td>
-                        {% if remainder == 0 or forloop.last %}
-                            </tr>
-                        {% endif %}
+                        </tr>
                     {%- endfor -%}
                 </tbody>
             </table>
