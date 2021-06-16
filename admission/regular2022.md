@@ -71,7 +71,15 @@ title: 🥇 정시 입시요강
   </div>
 
 <script type="text/javascript">
+$(document).ready(function () {
+    $("#admission").on("hidden.bs.modal", function () {
+        $("body").css("position", "relative");
+    });
+  
+});
+
 const loadImage = function(index, img_url, title) {
+    $("body").css("position", "fixed");
     $("#admissionImg").attr("src", img_url);
     $("#admissionImg").attr("alt", title);
 }
