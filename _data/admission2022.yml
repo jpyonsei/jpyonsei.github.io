@@ -194,3 +194,55 @@ na-group:
     title: 카톨릭관동대학교 스포츠레저학과
     image-url: /assets/img/admission/2022/regular/na/관동대_스포츠레저.png
 
+da-group:
+  - univ: 가천대학교
+    title: 체육전공
+    image-url: /assets/img/admission/2022/regular/da/가천대_체육.png
+  - univ: 카톨릭관동대학교
+    title: 체육교육학과
+    image-url: /assets/img/admission/2022/regular/da/관동대_체육교육.png
+  - univ: 강남대학교
+    title: 스포츠복지전공
+    image-url: /assets/img/admission/2022/regular/da/강남대_스포츠복지.png
+  - univ: 건국대학교
+    title: 스포츠건강학과
+    image-url: /assets/img/admission/2022/regular/da/건국대_스포츠건강.png
+  - univ: 광운대학교
+    title: 스포츠융합과
+    image-url: /assets/img/admission/2022/regular/da/광운대_스포츠융합.png
+  - univ: 단국대학교
+    title: 스포츠경영학과
+    image-url: /assets/img/admission/2022/regular/da/단국대_스포츠경영.png
+  - univ: 단국대학교
+    title: 생활체육학과
+    image-url: /assets/img/admission/2022/regular/da/단국대_생활체육.png
+  - univ: 단국대학교
+    title: 운동처방재활학과
+    image-url: /assets/img/admission/2022/regular/da/단국대_운동처방.png
+  - univ: 단국대학교
+    title: 체육교육과
+    image-url: /assets/img/admission/2022/regular/da/단국대_체육교육.png
+  - univ: 대진대학교
+    title: 스포츠과학과
+    image-url: /assets/img/admission/2022/regular/da/대진대_스포츠과학.png
+  - univ: 명지대학교
+    title: 스포츠학부
+    image-url: /assets/img/admission/2022/regular/da/명지대_스포츠.png
+  - univ: 상명대학교
+    title: 스포츠건강관리
+    image-url: /assets/img/admission/2022/regular/da/상명대_스포츠건강.png
+  - univ: 순천향대학교
+    title: 사회체육학과
+    image-url: /assets/img/admission/2022/regular/da/순천향대_사회체육.png
+  - univ: 순천향대학교
+    title: 스포츠과학과
+    image-url: /assets/img/admission/2022/regular/da/순천향대_스포츠과학.png
+  - univ: 순천향대학교
+    title: 스포츠의학
+    image-url: /assets/img/admission/2022/regular/da/순천향대_스포츠의학.png
+  - univ: 숭실대학교
+    title: 스포츠학부
+    image-url: /assets/img/admission/2022/regular/da/숭실대_스포츠.png
+  - univ: 인하대학교
+    title: 체육교육과
+    image-url: /assets/img/admission/2022/regular/da/인하대_체육교육.png

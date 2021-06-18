@@ -7,9 +7,7 @@ title: 🥇 정시 입시요강
         <div class="nav nav-tabs" id="nav-tab" role="tablist" style="border:none;">
             <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">가군</a>
             <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">나군</a>
-            <!--
             <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-contact" role="tab" aria-controls="nav-contact" aria-selected="false">다군</a>
-            -->
         </div>
     </nav>
     <div class="tab-content" id="nav-tabContent">
@@ -39,10 +37,18 @@ title: 🥇 정시 입시요강
                 </tbody>
             </table>
         </div>
-        <!-- 다군 
+        <!-- 다군 -->
         <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
+          <table class="table table-condensed">
+                <tbody>
+                    {% for p in site.data.admission2022.da-group -%}
+                        <tr>
+                            <td><a data-toggle="modal" href="#admission" onclick="loadImage({{forloop.index}}, '{{p.image-url}}', '{{p.title}}')" style="text-decoration:none;color:black"><img src="/assets/img/logo/{% include logo_func.html univ=p.univ %}" width="24px" height="24px" style="margin-right:8px"/>{{ p.univ }}&nbsp;{{ p.title }}</a></td>
+                        </tr>
+                    {%- endfor -%}
+                </tbody>
+            </table>
         </div>
-        -->
     </div>
 </div>
 
