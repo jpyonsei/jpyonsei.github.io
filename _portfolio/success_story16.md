@@ -5,7 +5,7 @@ name: 김*나
 title: 숭실대(스포츠학부)
 univ: 숭실대학교
 dept: 스포츠학부
-picture: /assets/img/success_story/IMG_3437.JPG
+picture: /assets/img/success_story/김_나.png
 highschool: 수명고
 --- 
 안녕하세요 올해 숭실대학교 스포츠학부 21학번으로 입학 한 김*나입니다.
