@@ -1,0 +1,160 @@
+kyonggi:
+  - univ: 가천대학교
+    title: 체육교육과
+    image-url: /assets/img/admission/2022/early/kyonggi/가천대_체육.png
+  - univ: 강남대학교
+    title: 스포츠복지전공
+    image-url: /assets/img/admission/2022/early/kyonggi/강남대_스포츠복지.png
+  - univ: 대진대학교
+    title: 스포츠과학과
+    image-url: /assets/img/admission/2022/early/kyonggi/대진대_스포츠과학.png
+  - univ: 성결대학교
+    title: 체육교육과
+    image-url: /assets/img/admission/2022/early/kyonggi/성결대_체육교육.png
+  - univ: 수원대학교
+    title: 스포츠과학부
+    image-url: /assets/img/admission/2022/early/kyonggi/수원대_스포츠과학.png
+  - univ: 용인대학교
+    title: 스포츠레져학과
+    image-url: /assets/img/admission/2022/early/kyonggi/용인대_스포츠레져.png
+  - univ: 용인대학교
+    title: 특수체육교육과
+    image-url: /assets/img/admission/2022/early/kyonggi/용인대_특수체육교육.png
+  - univ: 을지대학교
+    title: 스포츠아웃도어학과
+    image-url: /assets/img/admission/2022/early/kyonggi/을지대_스포츠아웃도어.png
+  - univ: 국립인천대학교
+    title: 운동건강학부
+    image-url: /assets/img/admission/2022/early/kyonggi/인천대_운동건강.png
+  - univ: 국립인천대학교
+    title: 체육학부
+    image-url: /assets/img/admission/2022/early/kyonggi/인천대_체육.png
+  - univ: 한신대학교
+    title: 특수체육학과
+    image-url: /assets/img/admission/2022/early/kyonggi/한신대_특수체육.png
+  - univ: 한양대학교
+    title: 스포츠과학부
+    image-url: /assets/img/admission/2022/early/kyonggi/한양대_스포츠과학.png
+  
+  
+seoul:
+  - univ: 동국대학교
+    title: 체육교육과
+    image-url: /assets/img/admission/2022/early/seoul/동국대_체육교육.png
+  - univ: 동덕여자대학교
+    title: 체육학과
+    image-url: /assets/img/admission/2022/early/seoul/동덕여대_체육.png
+  - univ: 삼육대학교
+    title: 생활체육학과
+    image-url: /assets/img/admission/2022/early/seoul/삼육대_생활체육.png
+  - univ: 서울여자대학교
+    title: 스포츠운동과학과
+    image-url: /assets/img/admission/2022/early/seoul/서울여대_스포츠운동과학.png
+  - univ: 숙명여자대학교
+    title: 체육교육과
+    image-url: /assets/img/admission/2022/early/seoul/숙명여대_체육교육.png
+  - univ: 한국체육대학교
+    title: 노인체육복지학과
+    image-url: /assets/img/admission/2022/early/seoul/한체대_노인체육복지.png
+  - univ: 한국체육대학교
+    title: 사회체육학과
+    image-url: /assets/img/admission/2022/early/seoul/한체대_사회체육.png
+  - univ: 한국체육대학교
+    title: 스포츠산업학과
+    image-url: /assets/img/admission/2022/early/seoul/한체대_스포츠산업.png
+  - univ: 한국체육대학교
+    title: 스포츠청소년지도학과
+    image-url: /assets/img/admission/2022/early/seoul/한체대_스포츠청소년지도.png
+  - univ: 한국체육대학교
+    title: 운동건강관리학과
+    image-url: /assets/img/admission/2022/early/seoul/한체대_운동건강관리.png
+  - univ: 한국체육대학교
+    title: 특수체육교육과
+    image-url: /assets/img/admission/2022/early/seoul/한체대_특수체육교육.png
+
+chungcheong:
+  - univ: 건국대학교
+    title: 스포츠건강학과
+    image-url: /assets/img/admission/2022/early/chungcheong/건국대_스포츠건강.png
+  - univ: 건양대학교
+    title: 재활퍼스널트레이닝학과
+    image-url: /assets/img/admission/2022/early/chungcheong/건양대_재활퍼스널.png
+  - univ: 극동대학교
+    title: 사회체육학과
+    image-url: /assets/img/admission/2022/early/chungcheong/극동대_사회체육.png
+  - univ: 나사렛대학교
+    title: 재활스포츠학부
+    image-url: /assets/img/admission/2022/early/chungcheong/나사렛대_재활스포츠.png
+  - univ: 남서울대학교
+    title: 스포츠건강관리
+    image-url: /assets/img/admission/2022/early/chungcheong/남서울대_스포츠건강.png
+  - univ: 남서울대학교
+    title: 스포츠비즈니스
+    image-url: /assets/img/admission/2022/early/chungcheong/남서울대_스포츠비즈니스.png
+  - univ: 대전대학교
+    title: 건강운동관리
+    image-url: /assets/img/admission/2022/early/chungcheong/대전대_건강운동관리.png
+  - univ: 대전대학교
+    title: 생활체육학과
+    image-url: /assets/img/admission/2022/early/chungcheong/대전대_생활체육.png
+  - univ: 목원대학교
+    title: 스포츠건강관리
+    image-url: /assets/img/admission/2022/early/chungcheong/목원대_스포츠건강.png
+  - univ: 백석대학교
+    title: 스포츠과학부
+    image-url: /assets/img/admission/2022/early/chungcheong/백석대_스포츠과학.png
+  - univ: 백석대학교
+    title: 특수체육교육
+    image-url: /assets/img/admission/2022/early/chungcheong/백석대_특수체육교육.png
+  - univ: 상명대학교
+    title: 스포츠융합학부
+    image-url: /assets/img/admission/2022/early/chungcheong/상명대_스포츠융합.png
+  - univ: 서원대학교
+    title: 레저스포츠학과
+    image-url: /assets/img/admission/2022/early/chungcheong/서원대_레저스포츠.png
+  - univ: 서원대학교
+    title: 체육교육과
+    image-url: /assets/img/admission/2022/early/chungcheong/서원대_체육교육.png
+  - univ: 선문대학교
+    title: 스포츠과학과
+    image-url: /assets/img/admission/2022/early/chungcheong/선문대_스포츠과학.png
+  - univ: 세명대학교
+    title: 생활체육학과
+    image-url: /assets/img/admission/2022/early/chungcheong/세명대_생활체육.png
+  - univ: 순천향대학교
+    title: 사회체육학과
+    image-url: /assets/img/admission/2022/early/chungcheong/순천향대_사회체육.png
+  - univ: 순천향대학교
+    title: 스포츠과학과
+    image-url: /assets/img/admission/2022/early/chungcheong/순천향대_스포츠과학.png
+  - univ: 순천향대학교
+    title: 스포츠의학과
+    image-url: /assets/img/admission/2022/early/chungcheong/순천향대_스포츠의학.png
+  - univ: 중부대학교
+    title: 레저스포츠학과
+    image-url: /assets/img/admission/2022/early/chungcheong/중부대_레저스포츠.png
+  - univ: 중부대학교
+    title: 스포츠건강관리
+    image-url: /assets/img/admission/2022/early/chungcheong/중부대_스포츠건강.png
+  - univ: 중부대학교
+    title: 특수체육교육과
+    image-url: /assets/img/admission/2022/early/chungcheong/중부대_특수체육교육.png
+  - univ: 한국교통대학교
+    title: 스포츠학부
+    image-url: /assets/img/admission/2022/early/chungcheong/교통대_스포츠.png
+  - univ: 한남대학교
+    title: 스포츠과학과
+    image-url: /assets/img/admission/2022/early/chungcheong/한남대_스포츠과학.png
+  - univ: 한서대학교
+    title: 레저해양스포츠학과
+    image-url: /assets/img/admission/2022/early/chungcheong/한서대_레저해양.png
+  - univ: 호서대학교
+    title: 사회체육학과
+    image-url: /assets/img/admission/2022/early/chungcheong/호서대_사회체육.png
+  
+
+  
+ 
+    
+
+
