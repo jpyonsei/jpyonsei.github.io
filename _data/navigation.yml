@@ -35,9 +35,9 @@ nav:
       - title: 수시
         url: /admission/early2022.html
       - title: 공무원
-        url:
+        url: /admission/public2022.html 
       - title: 편입
-        url:
+        url: /admission/transfer2022.html 
 
   - title: "커뮤니티"
     section: contact

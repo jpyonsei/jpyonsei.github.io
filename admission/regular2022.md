@@ -15,7 +15,7 @@ title: 🥇 정시 입시요강
         <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
             <table class="table table-condensed">
                 <tbody>
-                    {% for p in site.data.admission2022.ka-group -%}
+                    {% for p in site.data.admission-regular-2022.ka-group -%}
                         <tr>
                             <td><a data-toggle="modal" href="#admission" onclick="loadImage({{forloop.index}}, '{{p.image-url}}', '{{p.title}}')" style="text-decoration:none;color:black"><img src="/assets/img/logo/{% include logo_func.html univ=p.univ %}" width="24px" height="24px" style="margin-right:8px"/>{{ p.title }}</a></td>
                         </tr>
@@ -27,7 +27,7 @@ title: 🥇 정시 입시요강
         <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
             <table class="table table-condensed">
                 <tbody>
-                    {% for n in site.data.admission2022.na-group -%}
+                    {% for n in site.data.admission-regular-2022.na-group -%}
                         <tr>
                             <td>
                                 <a data-toggle="modal" href="#admission" onclick="loadImage({{forloop.index}}, '{{n.image-url}}', '{{n.title}}')" style="text-decoration:none;color:black"><img src="/assets/img/logo/{% include logo_func.html univ=n.univ %}" width="24px" height="24px" style="margin-right:8px"/>{{ n.title }}</a>
@@ -41,7 +41,7 @@ title: 🥇 정시 입시요강
         <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
           <table class="table table-condensed">
                 <tbody>
-                    {% for p in site.data.admission2022.da-group -%}
+                    {% for p in site.data.admission-regular-2022.da-group -%}
                         <tr>
                             <td><a data-toggle="modal" href="#admission" onclick="loadImage({{forloop.index}}, '{{p.image-url}}', '{{p.title}}')" style="text-decoration:none;color:black"><img src="/assets/img/logo/{% include logo_func.html univ=p.univ %}" width="24px" height="24px" style="margin-right:8px"/>{{ p.univ }}&nbsp;{{ p.title }}</a></td>
                         </tr>
@@ -77,15 +77,15 @@ title: 🥇 정시 입시요강
   </div>
 
 <script type="text/javascript">
-$(document).ready(function () {
-    $("#admission").on("hidden.bs.modal", function () {
-        $("body").css("position", "relative");
-    });
+// $(document).ready(function () {
+//     $("#admission").on("hidden.bs.modal", function () {
+//         $("body").css("position", "relative");
+//     });
   
-});
+// });
 
 const loadImage = function(index, img_url, title) {
-    $("body").css("position", "fixed");
+    //$("body").css("position", "fixed");
     $("#admissionImg").attr("src", img_url);
     $("#admissionImg").attr("alt", title);
 }
