@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: 국민대 합격
+  title: 2020 국민대 합격
   dept: 체육교육과
   thumbnail: /assets/img/success_story/김유태.png
   comment: /assets/img/success_story/comment_김유태.png
