@@ -1,0 +1,46 @@
+---
+layout: sub
+title: 공지사항
+---
+
+<!-- This loops through the paginated posts -->
+
+<table class="table table-condensed">
+    <thead class="thead-dark">
+        <tr>
+            <th></th>
+            <th>제목</th>
+            <th style="text-align: center;">날짜</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for post in paginator.posts %}
+            <tr>
+                <td style="text-align:center;"><img src="/assets/img/logo/{% include logo_func.html univ=post.univ %}" width="24px" height="24px" style="margin-right:4px"/>{{ p.univ }}</td>
+                <td><a href="{{ post.url }}">{{post.type}} {{ post.title }}</td>
+                <td style="text-align: center;">{{ post.date | date: "%F" }}</td>
+            </tr>
+        {%- endfor -%}
+    </tbody>
+
+</table>
+
+
+<!-- Pagination links -->
+<div style="margin:0 center;">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">
+      이전 &nbsp;
+    </a>
+  {% else %}
+    <!--<span class="previous">이전&nbsp;</span>-->
+  {% endif %}
+  <span class="page_number ">
+    총 페이지 {{ paginator.total_pages }} 중 현재  {{ paginator.page }} 페이지
+  </span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">&nbsp;다음</a>
+  {% else %}
+    <!-- <span class="next ">&nbsp;다음</span> -->
+  {% endif %}
+</div>
