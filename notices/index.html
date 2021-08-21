@@ -25,24 +25,25 @@ title: 공지사항
 
 </table>
 
+<br/>
 
 <!-- Pagination links -->
-<div style="margin:0 center;">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">
-      이전 &nbsp;
-    </a>
-  {% else %}
-    <!--<span class="previous">이전&nbsp;</span>-->
-  {% endif %}
-  <span class="page_number ">
-    총 페이지 {{ paginator.total_pages }} 중 현재  {{ paginator.page }} 페이지
-  </span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">&nbsp;다음</a>
-  {% else %}
-    <!-- <span class="next ">&nbsp;다음</span> -->
-  {% endif %}
+<div style="text-align:center;font-size:1em;">
+    {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path }}" class="previous">
+        [이전 페이지로] &nbsp;
+        </a>
+    {% else %}
+        <!--<span class="previous">이전&nbsp;</span>-->
+    {% endif %}
+    <span class="page_number ">
+        총 {{ paginator.total_pages }} 페이지 중 {{ paginator.page }} 페이지
+    </span>
+    {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path }}" class="next">&nbsp;[다음 페이지로]</a>
+    {% else %}
+        <!-- <span class="next ">&nbsp;다음</span> -->
+    {% endif %}
 </div>
 
 <br/>
