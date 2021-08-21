@@ -21,7 +21,7 @@ email      : jpyonsei@outlook.com #this is also the email contact forms will go 
 description: ""
 author     : JP Yonsei
 logo:     #optional, defaults to site title
-  path: /assets/img/jp_logo.png
+  path: /assets/img/jp_main_logo.png
 
 analytics:
   google: G-BG2K9CBSFJ

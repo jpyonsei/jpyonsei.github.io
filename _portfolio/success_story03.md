@@ -2,15 +2,15 @@
 caption: #what displays in the portfolio grid:
   title: 2020 국민대 합격
   dept: 체육교육과
-  thumbnail: /assets/img/success_story/김유태2.png
-  comment: /assets/img/success_story/comment_김유태2.png
+  thumbnail: /assets/img/success_story/김_태2.png
+  #comment: /assets/img/success_story/comment_김유태2.png
   
 #what displays when the item is clicked:
 name: 김*태
 title: 국민대 합격
 univ: 국민대학교
 dept: 체육교육과
-picture: /assets/img/success_story/김유태2.png
+picture: /assets/img/success_story/김_태2.png
 highschool: 백암고
 --- 
 
