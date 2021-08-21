@@ -1,6 +1,6 @@
 ---
 layout: sub
-title: 합격 스토리🎉
+title: 🎉 합격 스토리
 ---
 
 <div class="container">

@@ -1,6 +1,6 @@
 ---
 layout: sub
-title: 학원 시설
+title: 🏫 학원 시설
 ---
 <img src="/assets/img/introduction/facility01.png" width="100%" style="width:100%;text-align:center;"/>
 <img src="/assets/img/introduction/facility02.png" width="100%" style="width:100%;text-align:center;"/>

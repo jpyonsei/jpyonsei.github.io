@@ -1,13 +1,13 @@
 ---
 layout: sub
-title: 공무원
+title: 👮‍♂️ 공무원
 ---
 
  <div style="margin:20px 0 50px 0">
     <nav>
         <div class="nav nav-tabs" id="nav-tab" role="tablist" style="border:none;">
-            <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">경찰공무원</a>
-            <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">소방공무원</a>
+            <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true" style="color:black">경찰공무원</a>
+            <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false" style="color:black">소방공무원</a>
         </div>
     </nav>
     <div class="tab-content" id="nav-tabContent">
