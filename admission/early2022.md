@@ -1,6 +1,6 @@
 ---
 layout: sub
-title: 🥇 수시 입시요강
+title: 🥇 2022학년도 수시 입시요강
 ---
 <div style="margin:20px 0 50px 0">
     <nav>
