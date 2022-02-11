@@ -3,7 +3,7 @@
 #what displays when the item is clicked:
 name: 안*빈
 title: 숭실대(스포츠학부)
-univ: 숭실ㄹ대학교
+univ: 숭실대학교
 dept: 스포츠학부
 picture: /assets/img/success_story/안_빈.png
 highschool: 광영고
