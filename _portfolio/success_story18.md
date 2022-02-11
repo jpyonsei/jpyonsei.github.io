@@ -2,7 +2,7 @@
 
 #what displays when the item is clicked:
 name: 심*연
-title: 한체대(노인체육복지학과)
+title: 한체대(노인체육복지학과), 서울여대(스포츠운동과학과), 단국대(스포츠경영학과)
 univ: 한국체육대학교
 dept: 노인체육복지학과
 picture: /assets/img/success_story/심_연.png
