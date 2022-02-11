@@ -5,7 +5,7 @@ name: 안*빈
 title: 숭실대(스포츠학부)
 univ: 숭실대학교
 dept: 스포츠학부
-picture: /assets/img/success_story/_빈.png
+picture: /assets/img/success_story/안_빈.png
 highschool: 광영고
 --- 
 안녕하세요 저는 고2부터 재수까지 JP에듀 JP연세 체대입시에서 입시를 준비해서 숭실대학교 스포츠학부에 22학번으로 입학하게 된 안승빈입니다. 
