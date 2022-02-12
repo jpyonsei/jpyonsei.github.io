@@ -6,9 +6,6 @@ list:
   - img_url: /assets/img/accepted/univ_list/5.png
   - img_url: /assets/img/accepted/univ_list/6.png
   - img_url: /assets/img/accepted/univ_list/7.png
-  - img_url: /assets/img/accepted/univ_list/8.png
-  - img_url: /assets/img/accepted/univ_list/9.png
-  - img_url: /assets/img/accepted/univ_list/10.png
 
 pass:
   - univ: 연세대학교
