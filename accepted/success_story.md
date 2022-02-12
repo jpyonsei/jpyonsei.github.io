@@ -7,7 +7,7 @@ title: 🎉 합격 스토리
     <nav>
         <div class="nav nav-tabs" id="nav-tab" role="tablist" style="margin-bottom:25px">
             <a class="nav-item nav-link active" id="nav-2022-tab" data-toggle="tab" href="#nav-2022" role="tab" aria-controls="nav-home" aria-selected="true" style="color:black">2022학년도</a>
-            <a class="nav-item nav-link" id="nav-2022-tab" data-toggle="tab" href="#nav-2021" role="tab" aria-controls="nav-profile" aria-selected="false" style="color:black">2021학년도</a>
+            <a class="nav-item nav-link" id="nav-2022-tab" data-toggle="tab" href="#nav-2021" role="tab" aria-controls="nav-profile" aria-selected="false" style="color:black">2021학년도 이전</a>
         </div>
     </nav>
     <div class="tab-content" id="nav-tabContent">
