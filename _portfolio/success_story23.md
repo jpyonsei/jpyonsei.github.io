@@ -1,6 +1,7 @@
 ---
 name: 김*환
 title: 서울대(체육교육과), 연세대(체육교육학과) 합격
+year: 2022
 dept: 체육교육과
 univ: 서울대학교
 picture: /assets/img/success_story/김_환.png

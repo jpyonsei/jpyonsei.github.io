@@ -5,6 +5,7 @@ name: 최*원
 title: 세종대(체육학과)
 univ: 세종대학교
 dept: 체육학과
+year: 2021
 picture: /assets/img/success_story/최_원.png
 highschool: 동양고
 --- 

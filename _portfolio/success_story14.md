@@ -11,6 +11,7 @@ name: 김이*야
 title: 한양대학교(스포츠과학부) 합격
 univ: 한양대학교
 dept: 스포츠과학부
+year: 2021
 picture: /assets/img/success_story/김이_야.png
 highschool: 광영고
 --- 

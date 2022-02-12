@@ -9,6 +9,7 @@ caption: #what displays in the portfolio grid:
 name: 배*서
 title: 건국대, 숙명여대 체육교육과 합격
 dept: 체육교육과
+year: 2021
 univ: 건국대학교
 picture: /assets/img/success_story/배_서.png
 highschool: 백암고

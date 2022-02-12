@@ -11,6 +11,7 @@ name: 김*현
 title: 한국체육대(운동건강관리학과), 단국대(운동처방재활전공) 합격
 univ: 한국체육대학교
 dept: 운동건강관리학과
+year: 2021
 picture: /assets/img/success_story/김_현.png
 highschool: 백암고
 --- 

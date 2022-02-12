@@ -10,6 +10,7 @@ name: 김*태
 title: 국민대 합격
 univ: 국민대학교
 dept: 체육교육과
+year: 2021
 picture: /assets/img/success_story/김_태2.png
 highschool: 백암고
 --- 

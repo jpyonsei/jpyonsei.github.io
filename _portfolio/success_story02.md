@@ -9,6 +9,7 @@ name: 김*언
 title: 동국대, 한양대 합격
 dept: 체육교육과
 univ: 동국대학교
+year: 2021
 picture: /assets/img/success_story/김_언.png
 highschool: 동양고
 ---

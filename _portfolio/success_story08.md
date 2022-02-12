@@ -11,6 +11,7 @@ name: 신*섭
 title: 연세대(체육교육학과), 고려대(체육교육과), 단국대(체육교육과) 합격
 univ: 연세대학교
 dept: 체육교육학과
+year: 2021
 picture: /assets/img/success_story/신_섭.png
 highschool: 화곡고
 --- 

@@ -10,6 +10,7 @@ name: 이*재
 title: 2021 한체대 합격
 univ: 한국체육대학교
 dept: 노인체육복지학과
+year: 2021
 picture: /assets/img/success_story/이_재.png
 highschool: 백암고
 --- 

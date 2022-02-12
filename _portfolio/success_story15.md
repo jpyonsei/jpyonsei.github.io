@@ -11,6 +11,7 @@ name: 이*호
 title: 국립인천대(운동건강학부), 중앙대(스포츠과학부), 단국대(생활체육학과) 합격
 univ: 국립인천대학교
 dept: 운동건강학부
+year: 2021
 picture: /assets/img/success_story/이_호.png
 highschool: 광영고
 --- 

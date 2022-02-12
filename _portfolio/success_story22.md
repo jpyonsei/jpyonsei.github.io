@@ -3,6 +3,7 @@
 #what displays when the item is clicked:
 name: 윤*우
 title: 한체대(스포츠산업학과)
+year: 2022
 univ: 한국체육대학교
 dept: 스포츠산업학과
 picture: /assets/img/success_story/윤_우.png

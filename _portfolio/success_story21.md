@@ -3,6 +3,7 @@
 #what displays when the item is clicked:
 name: 유*규
 title: 한양대(스포츠과학과), 중앙대(스포츠과학부)
+year: 2022
 univ: 한양대학교
 dept: 스포츠과학과
 picture: /assets/img/success_story/유_규.png

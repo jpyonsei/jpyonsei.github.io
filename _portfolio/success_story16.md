@@ -5,6 +5,7 @@ name: 김*나
 title: 숭실대(스포츠학부)
 univ: 숭실대학교
 dept: 스포츠학부
+year: 2021
 picture: /assets/img/success_story/김_나.png
 highschool: 수명고
 --- 

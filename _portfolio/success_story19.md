@@ -4,6 +4,7 @@
 name: 안*빈
 title: 숭실대(스포츠학부)
 univ: 숭실대학교
+year: 2022
 dept: 스포츠학부
 picture: /assets/img/success_story/안_빈.png
 highschool: 광영고

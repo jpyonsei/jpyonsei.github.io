@@ -11,6 +11,7 @@ name: 윤*진
 title: 서울시립대(스포츠과학과), 인하대(체육교육과) 합격
 univ: 서울시립대학교
 dept: 스포츠과학과
+year: 2021
 picture: /assets/img/success_story/윤_진.png
 highschool: 백암고
 --- 

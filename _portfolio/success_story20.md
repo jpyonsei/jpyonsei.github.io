@@ -3,6 +3,7 @@
 #what displays when the item is clicked:
 name: 이*준
 title: 성결대(체육교육과)
+year: 2022
 univ: 성결대학교
 dept: 체육교육과
 picture: /assets/img/success_story/이_준.png

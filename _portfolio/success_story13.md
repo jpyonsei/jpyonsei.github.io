@@ -11,6 +11,7 @@ name: 유*림
 title: 중앙대(체육교육과) 
 univ: 중앙대학교
 dept: 체육교육과
+year: 2021
 picture: /assets/img/success_story/유_림.png
 highschool: 양천고
 --- 

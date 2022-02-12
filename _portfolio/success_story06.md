@@ -4,6 +4,7 @@
 name: 김*욱
 title: 숭실대(스포츠학부)
 univ: 숭실대학교
+year: 2021
 dept: 체육학부
 picture: /assets/img/success_story/김_욱.png
 highschool: 동양고

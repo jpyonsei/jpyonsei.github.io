@@ -11,6 +11,7 @@ name: 김*경
 title: 고려대(체육교육과), 서울시립대(스포츠과학과), 단국대(체육교육과) 합격
 univ: 고려대학교
 dept: 체육교육과
+year: 2021
 picture: /assets/img/success_story/anon.png
 highschool: 광영여고
 --- 
