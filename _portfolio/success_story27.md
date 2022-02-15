@@ -3,6 +3,7 @@
 #what displays when the item is clicked:
 name: 송*조
 title: 서울시립대(스포츠과학과)
+univ: 서울시립대학교
 dept: 스포츠과학과
 year: 2022
 picture: /assets/img/success_story/송_조.png
