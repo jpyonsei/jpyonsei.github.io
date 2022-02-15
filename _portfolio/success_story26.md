@@ -2,9 +2,9 @@
 
 #what displays when the item is clicked:
 name: 김*재
-title: 서울시립대(스포츠과학 수석), 건국대(체육교육과), 단국대(체육교육과)
-univ: 서울시립대학교
-dept: 스포츠과학 
+title: 건국대(체육교육과), 서울시립대(스포츠과학 수석), 단국대(체육교육과)
+univ: 건국대학교
+dept: 체육교육과
 year: 2022
 picture: /assets/img/success_story/김_재.png
 highschool: 광영고
