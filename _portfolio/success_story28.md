@@ -3,6 +3,7 @@
 #what displays when the item is clicked:
 name: 권*진
 title: 한체대(스포츠청소년지도학과)
+univ: 한국체육대학교
 dept: 스포츠청소년지도학과
 year: 2022
 picture: /assets/img/success_story/권_진.png
