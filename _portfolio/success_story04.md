@@ -1,9 +1,9 @@
 ---
-caption: #what displays in the portfolio grid:
-  title: 2021 한체대 합격
-  dept: 노인체육복지학과
-  thumbnail: /assets/img/success_story/이_재s.png
-  comment: /assets/img/success_story/comment_이_재.png
+# caption: #what displays in the portfolio grid:
+#   title: 2021 한체대 합격
+#   dept: 노인체육복지학과
+#   thumbnail: /assets/img/success_story/이_재s.png
+#   comment: /assets/img/success_story/comment_이_재.png
   
 #what displays when the item is clicked:
 name: 이*재

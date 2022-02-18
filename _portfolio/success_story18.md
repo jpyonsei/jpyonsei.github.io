@@ -1,4 +1,10 @@
 ---
+caption: #what displays in the portfolio grid:
+  title: 2022 서울대 합격
+  dept: 체육교육과
+  thumbnail: /assets/img/success_story/김_환s.png
+  comment: /assets/img/success_story/comment_김_환.png
+
 name: 김*환
 title: 서울대(체육교육과), 연세대(체육교육학과) 합격
 year: 2022

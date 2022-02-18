@@ -1,9 +1,9 @@
 ---
-caption: #what displays in the portfolio grid:
-  title: 2021 동국대 합격
-  dept: 체육교육과
-  thumbnail: /assets/img/success_story/김_언s.png
-  comment: /assets/img/success_story/comment_김_언.png
+# caption: #what displays in the portfolio grid:
+#   title: 2021 동국대 합격
+#   dept: 체육교육과
+#   thumbnail: /assets/img/success_story/김_언s.png
+#   comment: /assets/img/success_story/comment_김_언.png
 
 name: 김*언
 title: 동국대, 한양대 합격
