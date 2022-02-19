@@ -1,5 +1,5 @@
 ---
-caption: #what displays in the portfolio grid:
+caption: 
   title: 2022 서울대 합격
   dept: 체육교육과
   thumbnail: /assets/img/success_story/김_환s.png
