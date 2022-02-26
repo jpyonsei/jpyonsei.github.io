@@ -8,6 +8,10 @@ list:
   - img_url: /assets/img/accepted/univ_list/7.png
 
 pass:
+  - univ: 서울대학교
+    dept: 체육교육과
+    name: 김*환
+    high: 백암고
   - univ: 연세대학교
     dept: 체육교육학과
     name: 정*영
@@ -16,14 +20,18 @@ pass:
     dept: 체육교육학과
     name: 신*섭
     high: 화곡고
+  - univ: 연세대학교
+    dept: 체육교육학과
+    name: 김*환
+    high: 백암고
   - univ: 고려대학교
     dept: 체육교육과
     name: 김*경
     high: 광영여고
-  - univ: 중앙대학교
+  - univ: 건국대학교
     dept: 체육교육과
-    name: 유*림
-    high: 양천고
+    name: 김*재
+    high: 광영고
   - univ: 건국대학교
     dept: 체육교육과
     name: 배*서
@@ -32,13 +40,13 @@ pass:
     dept: 체육교육과
     name: 김*언
     high: 동양고
+  - univ: 중앙대학교
+    dept: 체육교육과
+    name: 유*림
+    high: 양천고
   - univ: 숙명여자대학교
     dept: 체육교육과
     name: 배*서
-    high: 백암고
-  - univ: 인하대학교
-    dept: 체육교육과
-    name: 윤*진
     high: 백암고
   - univ: 단국대학교
     dept: 체육교육과
@@ -48,6 +56,14 @@ pass:
     dept: 체육교육과
     name: 김*경
     high: 광영여고
+  - univ: 단국대학교
+    dept: 체육교육과
+    name: 김*재
+    high: 광영고
+  - univ: 인하대학교
+    dept: 체육교육과
+    name: 윤*진
+    high: 백암고
   - univ: 인하대학교
     dept: 체육교육과
     name: 신*섭
@@ -60,6 +76,14 @@ pass:
     dept: 스포츠과학과
     name: 윤*진
     high: 백암고
+  - univ: 서울시립대학교
+    dept: 스포츠과학과
+    name: 송*조
+    high: 인천하늘고
+  - univ: 서울시립대학교
+    dept: 스포츠과학과
+    name: 김*재
+    high: 광영고
   - univ: 한국체육대학교
     dept: 운동건강관리학과
     name: 김*현
@@ -68,18 +92,102 @@ pass:
     dept: 노인체육복지학과
     name: 이*재
     high: 백암고
+  - univ: 한국체육대학교
+    dept: 노인체육복지학과
+    name: 심*연
+    high: 광영여고
+  - univ: 한국체육대학교
+    dept: 스포츠청소년지도학과
+    name: 권*진
+    high: 광영여고
+  - univ: 한국체육대학교
+    dept: 스포츠산업학과
+    name: 윤*우
+    high: 백암고
+  - univ: 한양대학교
+    dept: 스포츠과학부
+    name: 유*규
+    high: 광영고
+  - univ: 한양대학교
+    dept: 스포츠과학부
+    name: 윤*진
+    high: 백암고
   - univ: 한양대학교
     dept: 스포츠과학부
     name: 김이*야
     high: 광영고
   - univ: 국립인천대학교
     dept: 운동건강학부
+    name: 한*민
+    high: 백암고
+  - univ: 국립인천대학교
+    dept: 운동건강학부
     name: 이*호
     high: 광영고
+  - univ: 국민대학교
+    dept: 스포츠건강재활학과
+    name: 김*태
+    high: 백암고
+  - univ: 국민대학교
+    dept: 스포츠교육
+    name: 박*랑
+    high: 덕원여고
+  - univ: 숭실대학교
+    dept: 스포츠학부
+    name: 정*후
+    high: 광영고
+  - univ: 숭실대학교
+    dept: 스포츠학부
+    name: 안*빈
+    high: 광영고
+  - univ: 숭실대학교
+    dept: 스포츠학부
+    name: 김*욱
+    high: 광영고
+  - univ: 숭실대학교
+    dept: 스포츠학부
+    name: 김*나
+    high: 수명고
+  - univ: 상명대학교
+    dept: 스포츠건강학과
+    name: 이*서
+    high: 광영여고
+  - univ: 덕성여자대학교
+    dept: 생활체육학과
+    name: 이*연
+    high: 백암고
+  - univ: 세종대학교
+    dept: 체육학과
+    name: 권*영
+    high: 동양고
+  - univ: 세종대학교
+    dept: 체육학과
+    name: 최*원
+    high: 동양고
   - univ: 인하대학교
     dept: 스포츠과학과
     name: 이*경
     high: 덕원여고
+  - univ: 서울여자대학교
+    dept: 스포츠운동과학과
+    name: 권*아
+    high: 한서고
+  - univ: 서울여자대학교
+    dept: 스포츠운동과학과
+    name: 심*연
+    high: 광영여고
+  - univ: 중앙대학교
+    dept: 스포츠과학부
+    name: 유*규
+    high: 광영고
+  - univ: 중앙대학교
+    dept: 스포츠과학부
+    name: 이*호
+    high: 광영고
+  - univ: 성결대학교
+    dept: 체육교육과
+    name: 이*준
+    high: 양천고
   - univ: 용인대학교
     dept: 스포츠레저학과
     name: 신*재
@@ -88,26 +196,58 @@ pass:
     dept: 운동재활복지학과
     name: 이*환
     high: 광영고
-  - univ: 숭실대학교
-    dept: 스포츠학부
-    name: 김*나
-    high: 수명고
+  - univ: 경기대학교
+    dept: 시큐리티메니지먼트학과
+    name: 이*아
+    high: 금옥여고
+  - univ: 상명대학교
+    dept: 스포츠융합학부
+    name: 박*은
+    high: 등촌고
   - univ: 상명대학교
     dept: 스포츠융합학부
     name: 하*석
     high: 화곡고
-  - univ: 중앙대학교
-    dept: 스포츠과학부
-    name: 이*호
+  - univ: 단국대학교
+    dept: 운동처방재활전공
+    name: 유*규
     high: 광영고
-  - univ: 나사렛대학교
-    dept: 재활스포츠학부
-    name: 피*아
+  - univ: 단국대학교
+    dept: 스포츠경영학과
+    name: 심*연
     high: 광영여고
+  - univ: 단국대학교
+    dept: 생활체육학과
+    name: 최*원
+    high: 백암고
   - univ: 단국대학교
     dept: 운동처방재활전공
     name: 배*서
     high: 백암고
+  - univ: 백석대학교
+    dept: 스포츠과학부
+    name: 김*규
+    high: 백암고
+  - univ: 나사렛대학교
+    dept: 재활스포츠학부
+    name: 최*은
+    high: 덕원여고
+  - univ: 나사렛대학교
+    dept: 재활스포츠학부
+    name: 피*아
+    high: 광영여고
+  - univ: 순천향대학교
+    dept: 사회체육학과
+    name: 박*열
+    high: 편입학
+  - univ: 남서울대학교
+    dept: 스포츠건강학과
+    name: 박*빈
+    high: 검정고시
+  - univ: 한서대학교
+    dept: 레저해양스포츠학과
+    name: 공*준
+    high: 화곡고
   - univ: 한서대학교
     dept: 레저해양스포츠학과
     name: 오*석
@@ -126,8 +266,8 @@ pass:
     high: 편입학
   - univ: 용인대학교
     dept: 특수체육교육과
-    name: 김*우
-    high: 편입학
+    name: 김*영
+    high: 광영고
   - univ: 단국대학교
     dept: 운동처방재활전공
     name: 김*현
@@ -152,10 +292,6 @@ pass:
     dept: 레저스포츠산업학과
     name: 조*연
     high: 광영고
-  - univ: 국민대학교
-    dept: 스포츠건강재활학과
-    name: 김*태
-    high: 백암고
   - univ: 한양대학교
     dept: 스포츠과학부
     name: 김*언
@@ -168,18 +304,10 @@ pass:
     dept: 
     name: 신*한
     high: 명덕고
-  - univ: 세종대학교
-    dept: 체육학과
-    name: 권*영
-    high: 동양고
   - univ: 숭실대학교
     dept: 스포츠학부
     name: 이*령
     high: 광여여고
-  - univ: 세종대학교
-    dept: 체육학과
-    name: 최*원
-    high: 동양고
   - univ: 단국대학교
     dept: 생활체육학과
     name: 은*현
@@ -220,10 +348,6 @@ pass:
     dept: 스포츠과학부
     name: 정*호
     high: 화곡고
-  - univ: 국민대학교
-    dept: 스포츠교육학과
-    name: 박*랑
-    high: 덕원여고
   - univ: 세종대학교
     dept: 체육학과
     name: 신*태
@@ -233,7 +357,7 @@ pass:
     name: 김*규
     high: 명덕고
   - univ: 서울여자대학교
-    dept: 체육학과
+    dept: 스포츠운동과학과
     name: 최*지
     high: 세현고
   - univ: 강남대학교
@@ -264,6 +388,10 @@ pass:
     dept: 스포츠건강관리학과
     name: 김*영
     high: 광영고
+  - univ: 카톨릭관동대학교
+    dept: 스포츠건강관리학과
+    name: 차*제
+    high: 편입학
   - univ: 강남대학교
     dept: 스포츠복지전공
     name: 곽*호
@@ -276,7 +404,3 @@ pass:
     dept: 스포츠경영학과
     name: 김*태
     high: 백암고
-  - univ: 카톨릭관동대학교
-    dept: 스포츠건강관리학과
-    name: 차*제
-    high: 편입학
