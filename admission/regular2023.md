@@ -1,6 +1,6 @@
 ---
 layout: sub
-title: 🥇 2023학년도 정시 입시요강
+title: 🥇 2023학년도 정시 입시 계획안
 ---
 <div style="margin:20px 0 50px 0">
     <nav>
