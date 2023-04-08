@@ -6,6 +6,74 @@ list:
   - img_url: /assets/img/accepted/univ_list/5.png
 
 pass:
+  - univ: 이화여자대학교
+    dept: 체육과학부
+    name: 배*서
+    high: 백암고
+  - univ: 서울시립대학교
+    dept: 스포츠과학과
+    name: 이*서
+    high: 광영여고
+  - univ: 숙명여자대학교
+    dept: 체육교육과
+    name: 이*연
+    high: 백암고
+  - univ: 세종대학교
+    dept: 체육학과
+    name: 정*희
+    high: 서울디자인고
+  - univ: 세종대학교
+    dept: 체육학과
+    name: 김*완
+    high: 영일고
+  - univ: 숭실대학교
+    dept: 스포츠학부
+    name: 김*완
+    high: 영일고
+  - univ: 단국대학교
+    dept: 체육교육과
+    name: 배*서
+    high: 백암고
+  - univ: 중앙대학교
+    dept: 스포츠과학부
+    name: 정*랑
+    high: 편입학
+  - univ: 단국대학교
+    dept: 체육교육과
+    name: 이*서
+    high: 광영여고
+  - univ: 숭실대학교
+    dept: 스포츠학부
+    name: 박*환
+    high: 마포고
+  - univ: 숭실대학교
+    dept: 스포츠학부
+    name: 정*희
+    high: 서울디자인고
+  - univ: 한양대학교
+    dept: 스포츠문화전공
+    name: 이*희
+    high: 편입학
+  - univ: 인천대학교
+    dept: 체육학부
+    name: 서*형
+    high: 광영고
+  - univ: 인천대학교
+    dept: 운동건강학부
+    name: 정*희
+    high: 서울디자인고
+  - univ: 인하대학교
+    dept: 스포츠과학과
+    name: 김*혜
+    high: 마포고
+  - univ: 백석대학교
+    dept: 스포츠과학부
+    name: 김*
+    high: 
+  - univ: 경기대학교
+    dept: 스포츠과학부
+    name: 박*환
+    high: 
   - univ: 서울대학교
     dept: 체육교육과
     name: 김*환
