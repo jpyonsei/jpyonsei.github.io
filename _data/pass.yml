@@ -4,8 +4,6 @@ list:
   - img_url: /assets/img/accepted/univ_list/3.png
   - img_url: /assets/img/accepted/univ_list/4.png
   - img_url: /assets/img/accepted/univ_list/5.png
-  - img_url: /assets/img/accepted/univ_list/6.png
-  - img_url: /assets/img/accepted/univ_list/7.png
 
 pass:
   - univ: 서울대학교
