@@ -16,10 +16,10 @@
 url    : "https://jpyonsei.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/" # the subpath of your site, e.g. /blog
 
-title      : JP Yonsei
+title      : JP Seoul Yonsei
 email      : jpyonsei@outlook.com #this is also the email contact forms will go to
 description: ""
-author     : JP Yonsei
+author     : JP Seoul Yonsei
 logo:     #optional, defaults to site title
   path: /assets/img/jp_main_logo.png
 
