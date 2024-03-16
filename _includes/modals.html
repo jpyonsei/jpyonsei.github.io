@@ -15,7 +15,11 @@
                 <!-- Project Details Go Here -->
                 <h2 class="text-uppercase">{{ success.name }}</h2>
                 <p class="item-intro text-muted"><img src="/assets/img/logo/{% include logo_func.html univ=success.univ %}" width="24px" height="24px" style="margin-bottom:0;margin-right:8px"/>{{ success.title }}</p>
-                <img class="img-fluid d-block mx-auto" src="{{ success.picture }}" alt="{{ success.name }}">
+                {% if success.certificate %}
+                  <img class="img-fluid d-block mx-auto" src="{{ success.certificate }}" alt="{{ success.name }}">
+                {% else %}
+                  <img class="img-fluid d-block mx-auto" src="{{ success.picture }}" alt="{{ success.name }}">
+                {% endif %}
 				        <div style="text-align: left;">{{ success.content }}</div>
                 <button class="btn btn-primary" data-dismiss="modal" type="button" style="text-align:right;">
                   <i class="fas fa-times" ></i>  닫기

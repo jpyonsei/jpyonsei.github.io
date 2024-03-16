@@ -6,13 +6,34 @@ title: 🎉 합격 스토리
 <div class="container">
     <nav>
         <div class="nav nav-tabs" id="nav-tab" role="tablist" style="margin-bottom:25px">
-            <a class="nav-item nav-link active" id="nav-2022-tab" data-toggle="tab" href="#nav-2022" role="tab" aria-controls="nav-home" aria-selected="true" style="color:black">2022학년도</a>
+            <a class="nav-item nav-link active" id="nav-2022-tab" data-toggle="tab" href="#nav-2022" role="tab" aria-controls="nav-home" aria-selected="true" style="color:black">2022학년도 이후</a>
             <a class="nav-item nav-link" id="nav-2022-tab" data-toggle="tab" href="#nav-2021" role="tab" aria-controls="nav-profile" aria-selected="false" style="color:black">2021학년도 이전</a>
         </div>
     </nav>
     <div class="tab-content" id="nav-tabContent">
         <!-- 가군 -->
         <div class="tab-pane fade show active" id="nav-2022" role="tabpanel" aria-labelledby="nav-2022-tab">
+            <div class="row no-gutter success-story-main" >
+                {% for success in site.portfolio %}
+                    {% if success.year >= 2024 %}
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-12 panel">
+                            <a data-toggle="modal" href="#p{{ forloop.index }}">
+                                <div class="pic-panel" style="background-image:url({{ success.picture }})">
+                                </div>
+                                <div class="desc-panel">
+                                    <p class="univ">
+                                        <span><img src="/assets/img/logo/{% include logo_func.html univ=success.univ %}"/>{{ success.univ }}</span>
+                                    </p>
+                                    <p class="dept">{{ success.dept }}({{success.year}})</p>
+                                    <p class="name">{{ success.name }} ({{ success.highschool }})</p>
+                                </div>
+                            </a>
+                        </div>
+                    {% endif %}
+                {% endfor %}
+                {% assign success_story_index = 0 %}
+            </div>
+            <hr style="margin-bottom:40px"/>
             <div class="row no-gutter success-story-main " >
                 {% for success in site.portfolio%}
                     {% if success.year == 2022 %}
