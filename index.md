@@ -1,3 +1,0 @@
----
-layout: jpyonsei_home
----
